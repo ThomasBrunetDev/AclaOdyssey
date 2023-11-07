@@ -1,0 +1,544 @@
+fileFormatVersion: 2
+guid: 28832ba454b8cba4f90c2bbd574537a8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Occurrence PersoBlesser 10000
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 546
+        width: 149
+        height: 255
+      alignment: 9
+      pivot: {x: 0.5010067, y: 0.5084314}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d8009c157fa6e720800000000000000
+      internalID: 2875178329647876308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoBlesser 10001
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 546
+        width: 149
+        height: 255
+      alignment: 9
+      pivot: {x: 0.52785236, y: 0.51235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d9994aca3a8d850800000000000000
+      internalID: 6402046832198393153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoBlesser 10002
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 547
+        width: 148
+        height: 254
+      alignment: 9
+      pivot: {x: 0.5516892, y: 0.5143701}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6aaa8ff277ba700800000000000000
+      internalID: 552666427202119335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoBlesser 10003
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 548
+        width: 149
+        height: 253
+      alignment: 9
+      pivot: {x: 0.5748322, y: 0.51640314}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d01be0e6f866a10800000000000000
+      internalID: 1902365595466272053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoBlesser 10004
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 550
+        width: 149
+        height: 251
+      alignment: 9
+      pivot: {x: 0.5949665, y: 0.5205179}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0604bb4b16717c60800000000000000
+      internalID: 7814156688070805005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoBlesser 10005
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 551
+        width: 149
+        height: 250
+      alignment: 9
+      pivot: {x: 0.6151007, y: 0.5226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b0d743020ca45a00800000000000000
+      internalID: 744408963067924663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoBlesser 10006
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 293
+        width: 149
+        height: 248
+      alignment: 9
+      pivot: {x: 0.6352349, y: 0.5268145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: facc8e6b9ec0870a0800000000000000
+      internalID: -6883737832500179793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoBlesser 10007
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 292
+        width: 149
+        height: 249
+      alignment: 9
+      pivot: {x: 0.6218121, y: 0.5246988}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f10e737ff41ab3340800000000000000
+      internalID: 4844643188989222943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoBlesser 10008
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 291
+        width: 150
+        height: 250
+      alignment: 9
+      pivot: {x: 0.611, y: 0.5226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad0b0adb0a4691ca0800000000000000
+      internalID: -6045690383229210406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoBlesser 10009
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 290
+        width: 149
+        height: 251
+      alignment: 9
+      pivot: {x: 0.60167783, y: 0.5205179}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c123d8070f5e48c0800000000000000
+      internalID: -4013165734123068984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoBlesser 10010
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 289
+        width: 149
+        height: 252
+      alignment: 9
+      pivot: {x: 0.58825505, y: 0.51845235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda3a99abb26609a0800000000000000
+      internalID: -6267213273295602977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoBlesser 10011
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 289
+        width: 149
+        height: 252
+      alignment: 9
+      pivot: {x: 0.5815436, y: 0.51845235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 268c2112bf5ea8c10800000000000000
+      internalID: 2056709046602483810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoBlesser 10012
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 31
+        width: 149
+        height: 253
+      alignment: 9
+      pivot: {x: 0.56812084, y: 0.51640314}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef4afd1e125d2e9a0800000000000000
+      internalID: -6205162995062954754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoBlesser 10013
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 30
+        width: 148
+        height: 254
+      alignment: 9
+      pivot: {x: 0.55844593, y: 0.5143701}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfd1cdcafa36701e0800000000000000
+      internalID: -2231705484168258052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoBlesser 10014
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 30
+        width: 148
+        height: 254
+      alignment: 9
+      pivot: {x: 0.5449324, y: 0.5143701}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf24bdc5421fb180800000000000000
+      internalID: -9097532631251931215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoBlesser 10015
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 29
+        width: 149
+        height: 255
+      alignment: 9
+      pivot: {x: 0.5345638, y: 0.51235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ef041889e7a9ea0800000000000000
+      internalID: -5865236371228000759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoBlesser 10016
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 29
+        width: 149
+        height: 255
+      alignment: 9
+      pivot: {x: 0.52114093, y: 0.51235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765a41b39ffd9cfa0800000000000000
+      internalID: -5779842385222261401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoBlesser 10017
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 29
+        width: 149
+        height: 255
+      alignment: 9
+      pivot: {x: 0.50771815, y: 0.5084314}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df8bf7000b10d0470800000000000000
+      internalID: 8362341938531121405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Occurrence PersoBlesser 10010: -6267213273295602977
+      Occurrence PersoBlesser 10000: 2875178329647876308
+      Occurrence PersoBlesser 10012: -6205162995062954754
+      Occurrence PersoBlesser 10004: 7814156688070805005
+      Occurrence PersoBlesser 10014: -9097532631251931215
+      Occurrence PersoBlesser 10009: -4013165734123068984
+      Occurrence PersoBlesser 10011: 2056709046602483810
+      Occurrence PersoBlesser 10001: 6402046832198393153
+      Occurrence PersoBlesser 10013: -2231705484168258052
+      Occurrence PersoBlesser 10017: 8362341938531121405
+      Occurrence PersoBlesser 10003: 1902365595466272053
+      Occurrence PersoBlesser 10006: -6883737832500179793
+      Occurrence PersoBlesser 10007: 4844643188989222943
+      Occurrence PersoBlesser 10015: -5865236371228000759
+      Occurrence PersoBlesser 10002: 552666427202119335
+      Occurrence PersoBlesser 10016: -5779842385222261401
+      Occurrence PersoBlesser 10005: 744408963067924663
+      Occurrence PersoBlesser 10008: -6045690383229210406
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

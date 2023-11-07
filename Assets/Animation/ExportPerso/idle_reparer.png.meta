@@ -1,0 +1,1026 @@
+fileFormatVersion: 2
+guid: 70eed841341598443bd6334f657326c0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Occurrence IdleAnim 10000
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 780
+        width: 149
+        height: 250
+      alignment: 9
+      pivot: {x: 0.42046982, y: 0.5068}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a4b15bd2e7025e0800000000000000
+      internalID: -1936409104992220667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence IdleAnim 10001
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 780
+        width: 149
+        height: 250
+      alignment: 9
+      pivot: {x: 0.42046982, y: 0.5068}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a82f7e6ddaa6e5ca0800000000000000
+      internalID: -6026261956507733366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence IdleAnim 10002
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 781
+        width: 149
+        height: 249
+      alignment: 9
+      pivot: {x: 0.42046982, y: 0.5088353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac25e0275853dad0800000000000000
+      internalID: -2678700222118024017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence IdleAnim 10003
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 781
+        width: 149
+        height: 249
+      alignment: 9
+      pivot: {x: 0.42046982, y: 0.5088353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70c2657ed514d930800000000000000
+      internalID: 4166979600420880511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence IdleAnim 10004
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 781
+        width: 150
+        height: 249
+      alignment: 9
+      pivot: {x: 0.41766667, y: 0.5088353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e22eec631bfc3e10800000000000000
+      internalID: 2178892380590973670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence IdleAnim 10005
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 782
+        width: 150
+        height: 248
+      alignment: 9
+      pivot: {x: 0.41766667, y: 0.5108871}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ff0a6bcd4abfcb0800000000000000
+      internalID: -4829084907560960175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence IdleAnim 10006
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 781
+        width: 149
+        height: 249
+      alignment: 9
+      pivot: {x: 0.4137584, y: 0.5128514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13de9ff042b0a57d0800000000000000
+      internalID: -2929016358136320719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence IdleAnim 10007
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 781
+        width: 149
+        height: 249
+      alignment: 9
+      pivot: {x: 0.4137584, y: 0.5128514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a1ad50d20e6f600800000000000000
+      internalID: 501834892474718728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence IdleAnim 10008
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 781
+        width: 149
+        height: 249
+      alignment: 9
+      pivot: {x: 0.4137584, y: 0.5128514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea931b0f7f98b3810800000000000000
+      internalID: 1746140978524273070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence IdleAnim 10009
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 782
+        width: 150
+        height: 248
+      alignment: 9
+      pivot: {x: 0.411, y: 0.51491934}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bcfdbfcbc2c06dd0800000000000000
+      internalID: -2494780012943770439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence IdleAnim 10010
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 782
+        width: 150
+        height: 248
+      alignment: 9
+      pivot: {x: 0.411, y: 0.51491934}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d421351ea137de20800000000000000
+      internalID: 3375221069487088848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence IdleAnim 10011
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 528
+        width: 149
+        height: 248
+      alignment: 9
+      pivot: {x: 0.407047, y: 0.51491934}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4229e38bf6a8ca010800000000000000
+      internalID: 1201487413038191140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence IdleAnim 10012
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 529
+        width: 149
+        height: 247
+      alignment: 9
+      pivot: {x: 0.407047, y: 0.517004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d9f7c65e685aac90800000000000000
+      internalID: -7157811426826389031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence IdleAnim 10013
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 529
+        width: 149
+        height: 247
+      alignment: 9
+      pivot: {x: 0.407047, y: 0.517004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdbc545809999b340800000000000000
+      internalID: 4880100517222927323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence IdleAnim 10014
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 529
+        width: 150
+        height: 247
+      alignment: 9
+      pivot: {x: 0.40433335, y: 0.517004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6001ce26f270330800000000000000
+      internalID: 3676959722685073063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence IdleAnim 10015
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 529
+        width: 150
+        height: 247
+      alignment: 9
+      pivot: {x: 0.40433335, y: 0.517004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba6dcf65093542df0800000000000000
+      internalID: -205947803552393557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence IdleAnim 10016
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 530
+        width: 149
+        height: 246
+      alignment: 9
+      pivot: {x: 0.40033558, y: 0.5191057}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feaeb375b53e0fa50800000000000000
+      internalID: 6552987439269145327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence IdleAnim 10017
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 530
+        width: 149
+        height: 246
+      alignment: 9
+      pivot: {x: 0.40033558, y: 0.5191057}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d5f9adf850df3c40800000000000000
+      internalID: 5494339151046768088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence IdleAnim 10018
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 530
+        width: 149
+        height: 246
+      alignment: 9
+      pivot: {x: 0.40033558, y: 0.5191057}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 843ed27b53c9132c0800000000000000
+      internalID: -4453606801972272312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence IdleAnim 10019
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 531
+        width: 149
+        height: 245
+      alignment: 9
+      pivot: {x: 0.40033558, y: 0.5212245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9823b2e866014ce0800000000000000
+      internalID: -1422848959722608485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence IdleAnim 10020
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 531
+        width: 149
+        height: 245
+      alignment: 9
+      pivot: {x: 0.40033558, y: 0.5212245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3220c44989659df0800000000000000
+      internalID: -174116972299017667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence IdleAnim 10021
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 531
+        width: 149
+        height: 245
+      alignment: 9
+      pivot: {x: 0.40033558, y: 0.5212245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 130bedb5f09dd3780800000000000000
+      internalID: -8701560245020872655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence IdleAnim 10022
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 530
+        width: 149
+        height: 246
+      alignment: 9
+      pivot: {x: 0.40033558, y: 0.5191057}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0aab7060417bcd70800000000000000
+      internalID: 9064463196323817996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence IdleAnim 10023
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 278
+        width: 149
+        height: 246
+      alignment: 9
+      pivot: {x: 0.40033558, y: 0.5191057}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b7c348a86f0c5ce0800000000000000
+      internalID: -1415239240727148618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence IdleAnim 10024
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 278
+        width: 149
+        height: 246
+      alignment: 9
+      pivot: {x: 0.40033558, y: 0.5191057}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c61035b95bb12f20800000000000000
+      internalID: 3396201587980375750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence IdleAnim 10025
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 277
+        width: 149
+        height: 247
+      alignment: 9
+      pivot: {x: 0.40033558, y: 0.517004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01418132016fa7f50800000000000000
+      internalID: 6880081929930544144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence IdleAnim 10026
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 277
+        width: 150
+        height: 247
+      alignment: 9
+      pivot: {x: 0.40433335, y: 0.517004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b8a24866a61ffe0800000000000000
+      internalID: -1157026640720917692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence IdleAnim 10027
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 277
+        width: 150
+        height: 247
+      alignment: 9
+      pivot: {x: 0.40433335, y: 0.517004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ece9a162933ec20800000000000000
+      internalID: 3234491793200303668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence IdleAnim 10028
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 276
+        width: 149
+        height: 248
+      alignment: 9
+      pivot: {x: 0.407047, y: 0.51491934}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a513c98355062b0800000000000000
+      internalID: -5593377035567146448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence IdleAnim 10029
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 276
+        width: 149
+        height: 248
+      alignment: 9
+      pivot: {x: 0.407047, y: 0.51491934}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d5482f2d2de1a50800000000000000
+      internalID: 6493859516168559933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence IdleAnim 10030
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 276
+        width: 149
+        height: 248
+      alignment: 9
+      pivot: {x: 0.407047, y: 0.51491934}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5101b3c143e935ed0800000000000000
+      internalID: -2426421827573444587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence IdleAnim 10031
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 276
+        width: 149
+        height: 248
+      alignment: 9
+      pivot: {x: 0.407047, y: 0.51491934}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95472f2cd42464130800000000000000
+      internalID: 3550598257978799193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence IdleAnim 10032
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 275
+        width: 149
+        height: 249
+      alignment: 9
+      pivot: {x: 0.407047, y: 0.5128514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773dc1568b6ca7f90800000000000000
+      internalID: -6955028179247639689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence IdleAnim 10033
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 275
+        width: 150
+        height: 249
+      alignment: 9
+      pivot: {x: 0.411, y: 0.5128514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f1284f4875976f0800000000000000
+      internalID: -686421239647822046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence IdleAnim 10034
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 22
+        width: 150
+        height: 249
+      alignment: 9
+      pivot: {x: 0.411, y: 0.5128514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 131d0165ecbf614e0800000000000000
+      internalID: -2011143319948570319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence IdleAnim 10035
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 22
+        width: 149
+        height: 249
+      alignment: 9
+      pivot: {x: 0.4137584, y: 0.5088353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df94570ab4a066770800000000000000
+      internalID: 8603575458068777469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence IdleAnim 10036
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 22
+        width: 149
+        height: 249
+      alignment: 9
+      pivot: {x: 0.4137584, y: 0.5088353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ea035cdef096a80800000000000000
+      internalID: -8473223710030909811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence IdleAnim 10037
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 22
+        width: 149
+        height: 249
+      alignment: 9
+      pivot: {x: 0.4137584, y: 0.5088353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1402430b67041cb00800000000000000
+      internalID: 847029083428888641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence IdleAnim 10038
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 22
+        width: 149
+        height: 249
+      alignment: 9
+      pivot: {x: 0.4137584, y: 0.5088353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caaf57bbb879459d0800000000000000
+      internalID: -2786435643034174804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence IdleAnim 10039
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 21
+        width: 150
+        height: 250
+      alignment: 9
+      pivot: {x: 0.41766667, y: 0.5068}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4861f677151c46f10800000000000000
+      internalID: 2262145468487112324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence IdleAnim 10040
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 21
+        width: 150
+        height: 250
+      alignment: 9
+      pivot: {x: 0.41766667, y: 0.5068}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d0ba9a52a43b5e0800000000000000
+      internalID: -1895089492572041837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Occurrence IdleAnim 10030: -2426421827573444587
+      Occurrence IdleAnim 10018: -4453606801972272312
+      Occurrence IdleAnim 10009: -2494780012943770439
+      Occurrence IdleAnim 10025: 6880081929930544144
+      Occurrence IdleAnim 10020: -174116972299017667
+      Occurrence IdleAnim 10028: -5593377035567146448
+      Occurrence IdleAnim 10037: 847029083428888641
+      Occurrence IdleAnim 10003: 4166979600420880511
+      Occurrence IdleAnim 10006: -2929016358136320719
+      Occurrence IdleAnim 10007: 501834892474718728
+      Occurrence IdleAnim 10014: 3676959722685073063
+      Occurrence IdleAnim 10012: -7157811426826389031
+      Occurrence IdleAnim 10034: -2011143319948570319
+      Occurrence IdleAnim 10010: 3375221069487088848
+      Occurrence IdleAnim 10033: -686421239647822046
+      Occurrence IdleAnim 10011: 1201487413038191140
+      Occurrence IdleAnim 10017: 5494339151046768088
+      Occurrence IdleAnim 10008: 1746140978524273070
+      Occurrence IdleAnim 10000: -1936409104992220667
+      Occurrence IdleAnim 10029: 6493859516168559933
+      Occurrence IdleAnim 10038: -2786435643034174804
+      Occurrence IdleAnim 10001: -6026261956507733366
+      Occurrence IdleAnim 10022: 9064463196323817996
+      Occurrence IdleAnim 10035: 8603575458068777469
+      Occurrence IdleAnim 10031: 3550598257978799193
+      Occurrence IdleAnim 10039: 2262145468487112324
+      Occurrence IdleAnim 10002: -2678700222118024017
+      Occurrence IdleAnim 10004: 2178892380590973670
+      Occurrence IdleAnim 10005: -4829084907560960175
+      Occurrence IdleAnim 10019: -1422848959722608485
+      Occurrence IdleAnim 10021: -8701560245020872655
+      Occurrence IdleAnim 10024: 3396201587980375750
+      Occurrence IdleAnim 10016: 6552987439269145327
+      Occurrence IdleAnim 10040: -1895089492572041837
+      Occurrence IdleAnim 10026: -1157026640720917692
+      Occurrence IdleAnim 10013: 4880100517222927323
+      Occurrence IdleAnim 10032: -6955028179247639689
+      Occurrence IdleAnim 10036: -8473223710030909811
+      Occurrence IdleAnim 10027: 3234491793200303668
+      Occurrence IdleAnim 10023: -1415239240727148618
+      Occurrence IdleAnim 10015: -205947803552393557
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

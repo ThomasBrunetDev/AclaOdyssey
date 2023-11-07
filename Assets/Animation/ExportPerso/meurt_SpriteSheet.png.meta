@@ -1,0 +1,808 @@
+fileFormatVersion: 2
+guid: 1abfcce43d3b81b42b1cde83c8cef4f0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Occurrence mort 10000
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 347
+        width: 149
+        height: 255
+      alignment: 9
+      pivot: {x: 0.511745, y: 0.5105882}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f30a5892a81d08460800000000000000
+      internalID: 7242018592144072767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence mort 10001
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 348
+        width: 148
+        height: 254
+      alignment: 9
+      pivot: {x: 0.5219595, y: 0.5125984}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c7fd7c021829710800000000000000
+      internalID: 1698561987264347231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence mort 10002
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 349
+        width: 148
+        height: 253
+      alignment: 9
+      pivot: {x: 0.535473, y: 0.5146245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cadf9fabc4819af0800000000000000
+      internalID: -391385682244805944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence mort 10003
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 350
+        width: 149
+        height: 252
+      alignment: 9
+      pivot: {x: 0.54530203, y: 0.51666665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff03a8ba7f633b390800000000000000
+      internalID: -7803833291940155137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence mort 10004
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 351
+        width: 147
+        height: 251
+      alignment: 9
+      pivot: {x: 0.5595238, y: 0.5187251}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e04bd9ec4274b92f0800000000000000
+      internalID: -965099471730002930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence mort 10005
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 353
+        width: 149
+        height: 249
+      alignment: 9
+      pivot: {x: 0.56543624, y: 0.5228916}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171436c3a72735e70800000000000000
+      internalID: 9102745141170618737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence mort 10006
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 355
+        width: 149
+        height: 247
+      alignment: 9
+      pivot: {x: 0.57885903, y: 0.5271255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28441e51de6708d80800000000000000
+      internalID: -8250463756696337278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence mort 10007
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 357
+        width: 149
+        height: 245
+      alignment: 9
+      pivot: {x: 0.58557045, y: 0.5314286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24ca5455e99fcb950800000000000000
+      internalID: 6466317623427968066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence mort 10008
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 357
+        width: 150
+        height: 245
+      alignment: 9
+      pivot: {x: 0.755, y: 0.5314286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92dbef33a0f24f3b0800000000000000
+      internalID: -5479703125734539991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence mort 10009
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 366
+        width: 183
+        height: 236
+      alignment: 9
+      pivot: {x: 0.82103825, y: 0.54745764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c79f3c44b00b18710800000000000000
+      internalID: 1693828497312840060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence mort 10010
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 368
+        width: 188
+        height: 234
+      alignment: 9
+      pivot: {x: 0.80984044, y: 0.55641025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 095d35e29d00069a0800000000000000
+      internalID: -6241988150750358128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence mort 10011
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 370
+        width: 192
+        height: 232
+      alignment: 9
+      pivot: {x: 0.80859375, y: 0.56551725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15941378cf83be420800000000000000
+      internalID: 2660282662143478097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence mort 10012
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 112
+        width: 193
+        height: 230
+      alignment: 9
+      pivot: {x: 0.8147668, y: 0.5747826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e0c9ce92a32ab40800000000000000
+      internalID: 5449982450809441918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence mort 10013
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 115
+        width: 193
+        height: 227
+      alignment: 9
+      pivot: {x: 0.8251295, y: 0.58237886}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40032b25b0338c1b0800000000000000
+      internalID: -5636198809929109500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence mort 10014
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 123
+        width: 205
+        height: 219
+      alignment: 9
+      pivot: {x: 0.8304878, y: 0.60821915}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1bcb1c862ce87ed0800000000000000
+      internalID: -2415921549780727012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence mort 10015
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 130
+        width: 213
+        height: 212
+      alignment: 9
+      pivot: {x: 0.850939, y: 0.64716977}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f254e2766f5f8e0d0800000000000000
+      internalID: -3393191880581823185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence mort 10016
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 143
+        width: 220
+        height: 199
+      alignment: 9
+      pivot: {x: 0.87386364, y: 0.6894472}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f06a42ffe44b73b0800000000000000
+      internalID: -5513737521432207113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence mort 10017
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 152
+        width: 227
+        height: 190
+      alignment: 9
+      pivot: {x: 0.89096916, y: 0.74315786}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e0ab11c3833e99a0800000000000000
+      internalID: -6224480994005901085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence mort 10018
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 216
+        width: 222
+        height: 126
+      alignment: 9
+      pivot: {x: 0.911036, y: 1.0412698}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc286230adf081c0800000000000000
+      internalID: -4503320762888213312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence mort 10019
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 228
+        width: 222
+        height: 114
+      alignment: 9
+      pivot: {x: 0.911036, y: 1.1508771}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3fa5094b91ad0580800000000000000
+      internalID: -8859247203650785478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence mort 10020
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 256
+        width: 223
+        height: 86
+      alignment: 9
+      pivot: {x: 0.91143495, y: 1.5255814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b60004f74879ce0800000000000000
+      internalID: -1398503477205767337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence mort 10021
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 25
+        width: 223
+        height: 82
+      alignment: 9
+      pivot: {x: 0.91143495, y: 1.5999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73dcb4c875c0cf4d0800000000000000
+      internalID: -3099588873382277833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence mort 10022
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 48
+        width: 222
+        height: 59
+      alignment: 9
+      pivot: {x: 0.911036, y: 2.2237287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cfe347fc664a4740800000000000000
+      internalID: 5136995758788308930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence mort 10023
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 51
+        width: 222
+        height: 56
+      alignment: 9
+      pivot: {x: 0.911036, y: 2.3428571}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f23eef574882760800000000000000
+      internalID: 7433336827297345391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence mort 10024
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 70
+        width: 222
+        height: 37
+      alignment: 9
+      pivot: {x: 0.911036, y: 3.545946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed2ba6e72e6a52aa0800000000000000
+      internalID: -6186355021409766690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence mort 10025
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 70
+        width: 222
+        height: 37
+      alignment: 9
+      pivot: {x: 0.911036, y: 3.545946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a021e98848628c9a0800000000000000
+      internalID: -6212673335287999990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence mort 10026
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 70
+        width: 222
+        height: 37
+      alignment: 9
+      pivot: {x: 0.911036, y: 3.545946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95e5cd196d19ad80800000000000000
+      internalID: -8239021705989331556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence mort 10027
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 70
+        width: 222
+        height: 37
+      alignment: 9
+      pivot: {x: 0.911036, y: 3.545946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb4be2a621fd3700800000000000000
+      internalID: 521838280089226238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence mort 10028
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 70
+        width: 222
+        height: 37
+      alignment: 9
+      pivot: {x: 0.911036, y: 3.545946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b33142aaca40b20800000000000000
+      internalID: 3099792290287401847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence mort 10029
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 70
+        width: 222
+        height: 37
+      alignment: 9
+      pivot: {x: 0.911036, y: 3.545946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e32b66fd124a6460800000000000000
+      internalID: 7235668447779824611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Occurrence mort 10012: 5449982450809441918
+      Occurrence mort 10016: -5513737521432207113
+      Occurrence mort 10014: -2415921549780727012
+      Occurrence mort 10002: -391385682244805944
+      Occurrence mort 10013: -5636198809929109500
+      Occurrence mort 10018: -4503320762888213312
+      Occurrence mort 10005: 9102745141170618737
+      Occurrence mort 10017: -6224480994005901085
+      Occurrence mort 10011: 2660282662143478097
+      Occurrence mort 10009: 1693828497312840060
+      Occurrence mort 10006: -8250463756696337278
+      Occurrence mort 10023: 7433336827297345391
+      Occurrence mort 10000: 7242018592144072767
+      Occurrence mort 10003: -7803833291940155137
+      Occurrence mort 10007: 6466317623427968066
+      Occurrence mort 10001: 1698561987264347231
+      Occurrence mort 10026: -8239021705989331556
+      Occurrence mort 10015: -3393191880581823185
+      Occurrence mort 10024: -6186355021409766690
+      Occurrence mort 10008: -5479703125734539991
+      Occurrence mort 10027: 521838280089226238
+      Occurrence mort 10028: 3099792290287401847
+      Occurrence mort 10025: -6212673335287999990
+      Occurrence mort 10020: -1398503477205767337
+      Occurrence mort 10019: -8859247203650785478
+      Occurrence mort 10021: -3099588873382277833
+      Occurrence mort 10010: -6241988150750358128
+      Occurrence mort 10029: 7235668447779824611
+      Occurrence mort 10004: -965099471730002930
+      Occurrence mort 10022: 5136995758788308930
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

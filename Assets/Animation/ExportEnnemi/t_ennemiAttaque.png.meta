@@ -1,0 +1,1468 @@
+fileFormatVersion: 2
+guid: a983372d88fad0845ad6bebe5f807967
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Occurrence EnnemiAttaque 10000
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1577
+        width: 204
+        height: 202
+      alignment: 9
+      pivot: {x: 0.5340686, y: 0.5735149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5da4c61f85a86390800000000000000
+      internalID: -7824822318575342243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence EnnemiAttaque 10001
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1576
+        width: 207
+        height: 203
+      alignment: 9
+      pivot: {x: 0.5359903, y: 0.5756158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e60bf4b104e46e90800000000000000
+      internalID: -7033246022063421722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence EnnemiAttaque 10002
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1577
+        width: 208
+        height: 202
+      alignment: 9
+      pivot: {x: 0.5382211, y: 0.5784654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614e858f72090bb40800000000000000
+      internalID: 5454017650090370070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence EnnemiAttaque 10003
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1577
+        width: 210
+        height: 202
+      alignment: 9
+      pivot: {x: 0.5378571, y: 0.5784654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be14a18e09bfdc030800000000000000
+      internalID: 3516743483834122731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence EnnemiAttaque 10004
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1577
+        width: 212
+        height: 202
+      alignment: 9
+      pivot: {x: 0.53749996, y: 0.5784654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac3f31ada57db540800000000000000
+      internalID: 5025302147810409644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence EnnemiAttaque 10005
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 1577
+        width: 214
+        height: 202
+      alignment: 9
+      pivot: {x: 0.5371495, y: 0.5784654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f520b684f3d8f4ac0800000000000000
+      internalID: -3868718251950538145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence EnnemiAttaque 10006
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1578
+        width: 216
+        height: 201
+      alignment: 9
+      pivot: {x: 0.53680557, y: 0.5813433}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c19359ba4bfb100800000000000000
+      internalID: 126017963625618509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence EnnemiAttaque 10007
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 1578
+        width: 218
+        height: 201
+      alignment: 9
+      pivot: {x: 0.53646785, y: 0.5813433}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 252defa9e17ea66e0800000000000000
+      internalID: -1843406978819370414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence EnnemiAttaque 10008
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 1578
+        width: 220
+        height: 201
+      alignment: 9
+      pivot: {x: 0.5361363, y: 0.5813433}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b569ac9d888af8a50800000000000000
+      internalID: 6525619690806089307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence EnnemiAttaque 10009
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1370
+        width: 221
+        height: 201
+      alignment: 9
+      pivot: {x: 0.5382353, y: 0.5813433}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 115aad5fbb8b44050800000000000000
+      internalID: 5783950938873701649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence EnnemiAttaque 10010
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1371
+        width: 223
+        height: 200
+      alignment: 9
+      pivot: {x: 0.53789234, y: 0.58425003}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37fcfecb992678d70800000000000000
+      internalID: 9045306789036281715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence EnnemiAttaque 10011
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1371
+        width: 225
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5375555, y: 0.58425003}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee169cf22d53d88a0800000000000000
+      internalID: -6301321126760324626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence EnnemiAttaque 10012
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1371
+        width: 226
+        height: 200
+      alignment: 9
+      pivot: {x: 0.535177, y: 0.58425003}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e9abe1070fc1b230800000000000000
+      internalID: 3652928401778125285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence EnnemiAttaque 10013
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 1371
+        width: 227
+        height: 200
+      alignment: 9
+      pivot: {x: 0.53722465, y: 0.58425003}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 693bd50f09cbdff20800000000000000
+      internalID: 3458127419584394134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence EnnemiAttaque 10014
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1372
+        width: 229
+        height: 199
+      alignment: 9
+      pivot: {x: 0.53689957, y: 0.587186}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66530534e734aa340800000000000000
+      internalID: 4875783756156253542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence EnnemiAttaque 10015
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 1372
+        width: 231
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5365801, y: 0.587186}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3fd4cb23c29f270800000000000000
+      internalID: 8284701585943950305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence EnnemiAttaque 10016
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 1373
+        width: 233
+        height: 198
+      alignment: 9
+      pivot: {x: 0.5362661, y: 0.58510107}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4083ec21f20ec0930800000000000000
+      internalID: 4110907052666009604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence EnnemiAttaque 10017
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1168
+        width: 235
+        height: 197
+      alignment: 9
+      pivot: {x: 0.53595746, y: 0.5880711}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64686b402cf647a60800000000000000
+      internalID: 7670878944412206662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence EnnemiAttaque 10018
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1168
+        width: 237
+        height: 197
+      alignment: 9
+      pivot: {x: 0.535654, y: 0.5880711}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bbca7f821c1930a0800000000000000
+      internalID: -6901454087926395983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence EnnemiAttaque 10019
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1168
+        width: 239
+        height: 197
+      alignment: 9
+      pivot: {x: 0.5353556, y: 0.5880711}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b3974a0f787b6e0800000000000000
+      internalID: -1821838056626767023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence EnnemiAttaque 10020
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 1169
+        width: 242
+        height: 196
+      alignment: 9
+      pivot: {x: 0.53698343, y: 0.58596945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c74b9622d6ca59ee0800000000000000
+      internalID: -1254907336424049540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence EnnemiAttaque 10021
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 1167
+        width: 238
+        height: 198
+      alignment: 9
+      pivot: {x: 0.5460084, y: 0.595202}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59be820ebe5d54550800000000000000
+      internalID: 6144552475671718805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence EnnemiAttaque 10022
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 1165
+        width: 238
+        height: 200
+      alignment: 9
+      pivot: {x: 0.55441177, y: 0.59925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 147fc0f3b2d8a7d70800000000000000
+      internalID: 9041694418780616513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence EnnemiAttaque 10023
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 1165
+        width: 237
+        height: 200
+      alignment: 9
+      pivot: {x: 0.56518984, y: 0.60425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00aee1c3c9ec43560800000000000000
+      internalID: 7292680867038554624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence EnnemiAttaque 10024
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 1165
+        width: 236
+        height: 200
+      alignment: 9
+      pivot: {x: 0.57182205, y: 0.60925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 196b6eaf10f596490800000000000000
+      internalID: -7752560821432568175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence EnnemiAttaque 10025
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 961
+        width: 234
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5852564, y: 0.6123116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42497d7255774ebe0800000000000000
+      internalID: -1448901972482091996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence EnnemiAttaque 10026
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 963
+        width: 232
+        height: 197
+      alignment: 9
+      pivot: {x: 0.59461206, y: 0.6134518}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3fdf08302e1cf30800000000000000
+      internalID: 4594201599571522540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence EnnemiAttaque 10027
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 965
+        width: 227
+        height: 195
+      alignment: 9
+      pivot: {x: 0.6077092, y: 0.61461544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed71ae10e1d0ff830800000000000000
+      internalID: 4107015807717480414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence EnnemiAttaque 10028
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 969
+        width: 224
+        height: 191
+      alignment: 9
+      pivot: {x: 0.6203125, y: 0.6170157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b81dcde271416c0800000000000000
+      internalID: -4173685464624952572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence EnnemiAttaque 10029
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 972
+        width: 219
+        height: 188
+      alignment: 9
+      pivot: {x: 0.6344749, y: 0.61622345}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c7300548c849990800000000000000
+      internalID: -7380119389447422903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence EnnemiAttaque 10030
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 973
+        width: 228
+        height: 187
+      alignment: 9
+      pivot: {x: 0.6050438, y: 0.61951876}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d531510aea697e0800000000000000
+      internalID: -1759026601870009055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence EnnemiAttaque 10031
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 973
+        width: 233
+        height: 187
+      alignment: 9
+      pivot: {x: 0.58776826, y: 0.61951876}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9adb58d85a79ce0800000000000000
+      internalID: -1398467132022478349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence EnnemiAttaque 10032
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 974
+        width: 239
+        height: 186
+      alignment: 9
+      pivot: {x: 0.56882846, y: 0.6228495}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f7d8ea197ca9690800000000000000
+      internalID: -7594538393094226172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence EnnemiAttaque 10033
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 770
+        width: 249
+        height: 186
+      alignment: 9
+      pivot: {x: 0.5459839, y: 0.6228495}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310f6c020271b4660800000000000000
+      internalID: 7371010641878249491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence EnnemiAttaque 10034
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 771
+        width: 251
+        height: 185
+      alignment: 9
+      pivot: {x: 0.5376494, y: 0.62621623}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce29e3f3d44a79a10800000000000000
+      internalID: 1916180818149937900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence EnnemiAttaque 10035
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 771
+        width: 251
+        height: 185
+      alignment: 9
+      pivot: {x: 0.5376494, y: 0.62621623}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 111cb48094fbe7220800000000000000
+      internalID: 2485634364747792657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence EnnemiAttaque 10036
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 756
+        width: 241
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5599585, y: 0.57925004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e312de1c19c979cd0800000000000000
+      internalID: -2551398514044362434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence EnnemiAttaque 10037
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 741
+        width: 226
+        height: 215
+      alignment: 9
+      pivot: {x: 0.59712386, y: 0.53883725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bcb500238fc341b0800000000000000
+      internalID: -5673462943471780687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence EnnemiAttaque 10038
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 730
+        width: 212
+        height: 226
+      alignment: 9
+      pivot: {x: 0.63655657, y: 0.5126107}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9093f17e326bc3d0800000000000000
+      internalID: -3185344291095211877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence EnnemiAttaque 10039
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 726
+        width: 197
+        height: 230
+      alignment: 9
+      pivot: {x: 0.6799492, y: 0.50369567}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81230e8fbf199b2d0800000000000000
+      internalID: -3262415943654952424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence EnnemiAttaque 10040
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 728
+        width: 197
+        height: 228
+      alignment: 9
+      pivot: {x: 0.6799492, y: 0.51250005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee49a8794867bcd0800000000000000
+      internalID: -2542448799861092639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence EnnemiAttaque 10041
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 498
+        width: 196
+        height: 223
+      alignment: 9
+      pivot: {x: 0.68341833, y: 0.52847534}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d684e0a9601848cf0800000000000000
+      internalID: -250933813871490963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence EnnemiAttaque 10042
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 489
+        width: 191
+        height: 232
+      alignment: 9
+      pivot: {x: 0.6751309, y: 0.5165948}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16578219069c40710800000000000000
+      internalID: 1658671979368576353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence EnnemiAttaque 10043
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 484
+        width: 189
+        height: 237
+      alignment: 9
+      pivot: {x: 0.6716931, y: 0.50991565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d3a81b64f0713e0800000000000000
+      internalID: -2083179506334810857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence EnnemiAttaque 10044
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 484
+        width: 188
+        height: 237
+      alignment: 9
+      pivot: {x: 0.6646277, y: 0.50991565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af3a445f7c47aedc0800000000000000
+      internalID: -3608943749221800966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence EnnemiAttaque 10045
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 492
+        width: 190
+        height: 229
+      alignment: 9
+      pivot: {x: 0.6471053, y: 0.5058952}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8dcd120708c97e0800000000000000
+      internalID: -1757388535488522077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence EnnemiAttaque 10046
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 483
+        width: 193
+        height: 238
+      alignment: 9
+      pivot: {x: 0.63186526, y: 0.48676473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a3eb19fc02786cd0800000000000000
+      internalID: -2564674587742968922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence EnnemiAttaque 10047
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 475
+        width: 196
+        height: 246
+      alignment: 9
+      pivot: {x: 0.6221939, y: 0.47500002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 914ffdf9597e3e480800000000000000
+      internalID: -8870992211171347431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence EnnemiAttaque 10048
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 473
+        width: 198
+        height: 248
+      alignment: 9
+      pivot: {x: 0.61085856, y: 0.47116938}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3778c4d3dd37aca00800000000000000
+      internalID: 777561279728224115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence EnnemiAttaque 10049
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 477
+        width: 218
+        height: 244
+      alignment: 9
+      pivot: {x: 0.5502294, y: 0.47889346}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9da113da0625d90800000000000000
+      internalID: -7110514564695139898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence EnnemiAttaque 10050
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 237
+        width: 235
+        height: 231
+      alignment: 9
+      pivot: {x: 0.5061702, y: 0.5058442}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55df81cbb20e9ead0800000000000000
+      internalID: -2672358425423708843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence EnnemiAttaque 10051
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 251
+        width: 250
+        height: 217
+      alignment: 9
+      pivot: {x: 0.4718, y: 0.53847927}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c3c1e59e68ae49e0800000000000000
+      internalID: -1635184421774441536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence EnnemiAttaque 10052
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 266
+        width: 262
+        height: 202
+      alignment: 9
+      pivot: {x: 0.44637403, y: 0.5784654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da2f7eb5a2f1d100800000000000000
+      internalID: 131152657849985746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence EnnemiAttaque 10053
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 266
+        width: 268
+        height: 202
+      alignment: 9
+      pivot: {x: 0.43264925, y: 0.5784654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f780e51576239ec0800000000000000
+      internalID: -3561460595999864844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence EnnemiAttaque 10054
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 265
+        width: 266
+        height: 203
+      alignment: 9
+      pivot: {x: 0.43214285, y: 0.5756158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbb2ce59acd770b00800000000000000
+      internalID: 794742168306330559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence EnnemiAttaque 10055
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 265
+        width: 260
+        height: 203
+      alignment: 9
+      pivot: {x: 0.43826923, y: 0.5756158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf591b9e9f0bf310800000000000000
+      internalID: 1439761679756386268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence EnnemiAttaque 10056
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 265
+        width: 248
+        height: 203
+      alignment: 9
+      pivot: {x: 0.45544353, y: 0.5756158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b64a5db0397c2b0800000000000000
+      internalID: -5564317135554712710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence EnnemiAttaque 10057
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 29
+        width: 231
+        height: 203
+      alignment: 9
+      pivot: {x: 0.48463202, y: 0.5756158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ddfa8140c287acd0800000000000000
+      internalID: -2546923302009766442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence EnnemiAttaque 10058
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 30
+        width: 217
+        height: 202
+      alignment: 9
+      pivot: {x: 0.50668204, y: 0.5735149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792d56f6fa1a880f0800000000000000
+      internalID: -1114463132913905001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence EnnemiAttaque 10059
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 30
+        width: 204
+        height: 202
+      alignment: 9
+      pivot: {x: 0.5340686, y: 0.5735149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be11f6d55786d8950800000000000000
+      internalID: 6452928694379811307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Occurrence EnnemiAttaque 10019: -1821838056626767023
+      Occurrence EnnemiAttaque 10055: 1439761679756386268
+      Occurrence EnnemiAttaque 10030: -1759026601870009055
+      Occurrence EnnemiAttaque 10020: -1254907336424049540
+      Occurrence EnnemiAttaque 10015: 8284701585943950305
+      Occurrence EnnemiAttaque 10046: -2564674587742968922
+      Occurrence EnnemiAttaque 10012: 3652928401778125285
+      Occurrence EnnemiAttaque 10041: -250933813871490963
+      Occurrence EnnemiAttaque 10049: -7110514564695139898
+      Occurrence EnnemiAttaque 10000: -7824822318575342243
+      Occurrence EnnemiAttaque 10052: 131152657849985746
+      Occurrence EnnemiAttaque 10029: -7380119389447422903
+      Occurrence EnnemiAttaque 10051: -1635184421774441536
+      Occurrence EnnemiAttaque 10025: -1448901972482091996
+      Occurrence EnnemiAttaque 10053: -3561460595999864844
+      Occurrence EnnemiAttaque 10024: -7752560821432568175
+      Occurrence EnnemiAttaque 10045: -1757388535488522077
+      Occurrence EnnemiAttaque 10021: 6144552475671718805
+      Occurrence EnnemiAttaque 10048: 777561279728224115
+      Occurrence EnnemiAttaque 10040: -2542448799861092639
+      Occurrence EnnemiAttaque 10017: 7670878944412206662
+      Occurrence EnnemiAttaque 10059: 6452928694379811307
+      Occurrence EnnemiAttaque 10031: -1398467132022478349
+      Occurrence EnnemiAttaque 10058: -1114463132913905001
+      Occurrence EnnemiAttaque 10028: -4173685464624952572
+      Occurrence EnnemiAttaque 10034: 1916180818149937900
+      Occurrence EnnemiAttaque 10022: 9041694418780616513
+      Occurrence EnnemiAttaque 10044: -3608943749221800966
+      Occurrence EnnemiAttaque 10056: -5564317135554712710
+      Occurrence EnnemiAttaque 10002: 5454017650090370070
+      Occurrence EnnemiAttaque 10026: 4594201599571522540
+      Occurrence EnnemiAttaque 10039: -3262415943654952424
+      Occurrence EnnemiAttaque 10050: -2672358425423708843
+      Occurrence EnnemiAttaque 10057: -2546923302009766442
+      Occurrence EnnemiAttaque 10037: -5673462943471780687
+      Occurrence EnnemiAttaque 10032: -7594538393094226172
+      Occurrence EnnemiAttaque 10042: 1658671979368576353
+      Occurrence EnnemiAttaque 10011: -6301321126760324626
+      Occurrence EnnemiAttaque 10054: 794742168306330559
+      Occurrence EnnemiAttaque 10004: 5025302147810409644
+      Occurrence EnnemiAttaque 10001: -7033246022063421722
+      Occurrence EnnemiAttaque 10018: -6901454087926395983
+      Occurrence EnnemiAttaque 10009: 5783950938873701649
+      Occurrence EnnemiAttaque 10008: 6525619690806089307
+      Occurrence EnnemiAttaque 10005: -3868718251950538145
+      Occurrence EnnemiAttaque 10035: 2485634364747792657
+      Occurrence EnnemiAttaque 10013: 3458127419584394134
+      Occurrence EnnemiAttaque 10006: 126017963625618509
+      Occurrence EnnemiAttaque 10007: -1843406978819370414
+      Occurrence EnnemiAttaque 10010: 9045306789036281715
+      Occurrence EnnemiAttaque 10016: 4110907052666009604
+      Occurrence EnnemiAttaque 10038: -3185344291095211877
+      Occurrence EnnemiAttaque 10043: -2083179506334810857
+      Occurrence EnnemiAttaque 10014: 4875783756156253542
+      Occurrence EnnemiAttaque 10036: -2551398514044362434
+      Occurrence EnnemiAttaque 10023: 7292680867038554624
+      Occurrence EnnemiAttaque 10033: 7371010641878249491
+      Occurrence EnnemiAttaque 10027: 4107015807717480414
+      Occurrence EnnemiAttaque 10003: 3516743483834122731
+      Occurrence EnnemiAttaque 10047: -8870992211171347431
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

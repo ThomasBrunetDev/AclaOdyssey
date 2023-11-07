@@ -1,0 +1,36 @@
+Répartition Synthèse
+
+1 ennemi chacun
+1 fonctionnalité chacun
+
+Thomas -------------
+
+Ennemi: Golem
+
+Fonctionnalité : MiniMap qui affiche les bonus et ennemi sur la carte (achat dans boutique)
+
+Boutique: Faire en sorte que les nouvelles fonctionnalité soit dans la boutique et qu'il est seulement possible des les acheter une fois
+
+Objet récompense: "Drop" des ennemis
+
+Fautes: Correction des fautes d'orthographes dans la boutique
+
+
+
+Michaël ------------
+
+Ennemi: Ennemi volant (Nuage)
+Apparition de son ennemi dans le script niveau
+
+Fonctionnalité : Bulle protectrice avec du mana (achat dans boutique)
+
+Attaque du joueur: Ajouter la mécanique d'attaque au personnage pour pouvoir attaquer les ennemi.
+(animations d'attaques, zone de détection des ennemis)
+
+Aimant: Aimant qui attire les lumières vers le personnage. (Effector)
+
+Animation score: Animation des scores dans le panneau de fin de partie
+
+Sons: Ajustement et ajout de sons dans le jeu (volume, optimisation du code)
+
+Intégration: Faire l'intégration de tout les fonctionnalités de Thomas. 

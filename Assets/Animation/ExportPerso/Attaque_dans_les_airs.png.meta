@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: 1b7727e67401daf498d295e09a70caaf
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Occurrence persoAttaqueAir 10000
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 318
+        width: 212
+        height: 255
+      alignment: 9
+      pivot: {x: 0.2804245, y: 0.5178431}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335d5fc7b9bc5d7c0800000000000000
+      internalID: -4047104821445667533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence persoAttaqueAir 10001
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 318
+        width: 204
+        height: 255
+      alignment: 9
+      pivot: {x: 0.30122548, y: 0.5178431}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a4310948448a810800000000000000
+      internalID: 1776745389141215869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence persoAttaqueAir 10002
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 319
+        width: 192
+        height: 254
+      alignment: 9
+      pivot: {x: 0.33046874, y: 0.5198819}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79fd2fd5bcaa7c4f0800000000000000
+      internalID: -808489817658433641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence persoAttaqueAir 10003
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 319
+        width: 178
+        height: 254
+      alignment: 9
+      pivot: {x: 0.3676966, y: 0.5198819}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 295c3a8457b5e4d00800000000000000
+      internalID: 958804329964488082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence persoAttaqueAir 10004
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 320
+        width: 164
+        height: 253
+      alignment: 9
+      pivot: {x: 0.41128048, y: 0.5219368}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 472a1d1f0bddbe290800000000000000
+      internalID: -7859944972604038540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence persoAttaqueAir 10005
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 321
+        width: 153
+        height: 252
+      alignment: 9
+      pivot: {x: 0.45392156, y: 0.524008}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e39d96aa78af20f20800000000000000
+      internalID: 3387545330322626878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence persoAttaqueAir 10006
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 322
+        width: 149
+        height: 251
+      alignment: 9
+      pivot: {x: 0.4795302, y: 0.5260956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b2e3b8b2483dff20800000000000000
+      internalID: 3457981948108202672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence persoAttaqueAir 10007
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 321
+        width: 208
+        height: 252
+      alignment: 9
+      pivot: {x: 0.6463942, y: 0.524008}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b3baee2edf4a670800000000000000
+      internalID: 8549237143764679497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence persoAttaqueAir 10008
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 321
+        width: 198
+        height: 252
+      alignment: 9
+      pivot: {x: 0.62853533, y: 0.524008}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b39f9323ac3a9f10800000000000000
+      internalID: 2277199232964203447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence persoAttaqueAir 10009
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 321
+        width: 198
+        height: 252
+      alignment: 9
+      pivot: {x: 0.62853533, y: 0.524008}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef1b2cba2642ddb0800000000000000
+      internalID: -4768671906072420380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence persoAttaqueAir 10010
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 62
+        width: 198
+        height: 252
+      alignment: 9
+      pivot: {x: 0.62853533, y: 0.524008}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36616268bae11e10800000000000000
+      internalID: 2166770973387351614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence persoAttaqueAir 10011
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 63
+        width: 271
+        height: 251
+      alignment: 9
+      pivot: {x: 0.4592251, y: 0.5260956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b7e69fa694f8ad0800000000000000
+      internalID: -2697856927971509393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence persoAttaqueAir 10012
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 64
+        width: 280
+        height: 250
+      alignment: 9
+      pivot: {x: 0.2623214, y: 0.52820003}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b493cc08c0102670800000000000000
+      internalID: 8511821747123885237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence persoAttaqueAir 10013
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 26
+        width: 247
+        height: 288
+      alignment: 9
+      pivot: {x: 0.2973684, y: 0.5904514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b8c6c281212b740800000000000000
+      internalID: 5166211617581206371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence persoAttaqueAir 10014
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 62
+        width: 259
+        height: 252
+      alignment: 9
+      pivot: {x: 0.2681467, y: 0.524008}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b09a6f1dd0265340800000000000000
+      internalID: 4852101782625226936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence persoAttaqueAir 10015
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 61
+        width: 262
+        height: 253
+      alignment: 9
+      pivot: {x: 0.25362593, y: 0.5219368}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3e40d11b829de80800000000000000
+      internalID: -8153440909216390177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence persoAttaqueAir 10016
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 60
+        width: 246
+        height: 254
+      alignment: 9
+      pivot: {x: 0.25386178, y: 0.5198819}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97164924c83703350800000000000000
+      internalID: 5994418150279766393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence persoAttaqueAir 10017
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 59
+        width: 215
+        height: 255
+      alignment: 9
+      pivot: {x: 0.2765116, y: 0.5178431}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 433d87a0dd142fdf0800000000000000
+      internalID: -147983420130536652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Occurrence persoAttaqueAir 10011: -2697856927971509393
+      Occurrence persoAttaqueAir 10003: 958804329964488082
+      Occurrence persoAttaqueAir 10012: 8511821747123885237
+      Occurrence persoAttaqueAir 10017: -147983420130536652
+      Occurrence persoAttaqueAir 10006: 3457981948108202672
+      Occurrence persoAttaqueAir 10007: 8549237143764679497
+      Occurrence persoAttaqueAir 10016: 5994418150279766393
+      Occurrence persoAttaqueAir 10015: -8153440909216390177
+      Occurrence persoAttaqueAir 10008: 2277199232964203447
+      Occurrence persoAttaqueAir 10013: 5166211617581206371
+      Occurrence persoAttaqueAir 10004: -7859944972604038540
+      Occurrence persoAttaqueAir 10002: -808489817658433641
+      Occurrence persoAttaqueAir 10005: 3387545330322626878
+      Occurrence persoAttaqueAir 10001: 1776745389141215869
+      Occurrence persoAttaqueAir 10000: -4047104821445667533
+      Occurrence persoAttaqueAir 10009: -4768671906072420380
+      Occurrence persoAttaqueAir 10014: 4852101782625226936
+      Occurrence persoAttaqueAir 10010: 2166770973387351614
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

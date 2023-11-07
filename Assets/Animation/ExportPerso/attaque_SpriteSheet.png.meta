@@ -1,0 +1,1028 @@
+fileFormatVersion: 2
+guid: 4ed2b4262b1e6aa489011b66a2d98e3c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Occurrence PersoAttack 10000
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1290
+        width: 266
+        height: 256
+      alignment: 9
+      pivot: {x: 0.28270677, y: 0.5109375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d923a5de764a245a0800000000000000
+      internalID: -6538482942717840739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAttack 10001
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1290
+        width: 266
+        height: 256
+      alignment: 9
+      pivot: {x: 0.28270677, y: 0.5109375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0bdcbb1cc2d4620800000000000000
+      internalID: 2759911357239111871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAttack 10002
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1289
+        width: 266
+        height: 257
+      alignment: 9
+      pivot: {x: 0.28270677, y: 0.51284045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d8b6119be5860a10800000000000000
+      internalID: 1875333541644384472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAttack 10003
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1289
+        width: 266
+        height: 257
+      alignment: 9
+      pivot: {x: 0.28270677, y: 0.51284045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb85901ced564730800000000000000
+      internalID: 3982974188927683505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAttack 10004
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 1289
+        width: 266
+        height: 257
+      alignment: 9
+      pivot: {x: 0.28270677, y: 0.51284045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d2f1c6ab7983f3e0800000000000000
+      internalID: -2021120643587509552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAttack 10005
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1289
+        width: 265
+        height: 257
+      alignment: 9
+      pivot: {x: 0.28, y: 0.51284045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e08b2e69bfe10a90800000000000000
+      internalID: -7349329537195605784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAttack 10006
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 1292
+        width: 246
+        height: 254
+      alignment: 9
+      pivot: {x: 0.32601625, y: 0.51496065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e6261d0f5ab7e50800000000000000
+      internalID: 6808217715424259633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAttack 10007
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1032
+        width: 206
+        height: 252
+      alignment: 9
+      pivot: {x: 0.4184466, y: 0.5190476}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f0d24af66e9a97e0800000000000000
+      internalID: -1757918539412221705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAttack 10008
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1035
+        width: 170
+        height: 249
+      alignment: 9
+      pivot: {x: 0.5364706, y: 0.5212852}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c432202af8f1be0800000000000000
+      internalID: -1504325824535114739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAttack 10009
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1034
+        width: 160
+        height: 250
+      alignment: 9
+      pivot: {x: 0.59499997, y: 0.5152}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c7da80fca42cd80800000000000000
+      internalID: -8231934915815572341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAttack 10010
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 1039
+        width: 235
+        height: 245
+      alignment: 9
+      pivot: {x: 0.71999997, y: 0.5216327}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91a5a0ea7b0bcce0800000000000000
+      internalID: -1383999838103428705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAttack 10011
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1035
+        width: 192
+        height: 249
+      alignment: 9
+      pivot: {x: 0.56874996, y: 0.5373494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e972e9e15b4ca50800000000000000
+      internalID: 6540551701955845734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAttack 10012
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 1033
+        width: 291
+        height: 251
+      alignment: 9
+      pivot: {x: 0.37525773, y: 0.5370518}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 760288d3ad0dba900800000000000000
+      internalID: 696880203112652903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAttack 10013
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 1025
+        width: 251
+        height: 259
+      alignment: 9
+      pivot: {x: 0.2318725, y: 0.51660234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae955d96ec3e5d010800000000000000
+      internalID: 1213126150324574698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAttack 10014
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 1026
+        width: 251
+        height: 258
+      alignment: 9
+      pivot: {x: 0.22788844, y: 0.51472867}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b769900c32c4d050800000000000000
+      internalID: 5824493781060773810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAttack 10015
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 775
+        width: 250
+        height: 245
+      alignment: 9
+      pivot: {x: 0.22479999, y: 0.5379592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9782aacf9bd80d80800000000000000
+      internalID: -8284130035202095202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAttack 10016
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 775
+        width: 249
+        height: 245
+      alignment: 9
+      pivot: {x: 0.22168674, y: 0.5379592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18731cc995e03fbe0800000000000000
+      internalID: -1444795277411010687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAttack 10017
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 775
+        width: 249
+        height: 245
+      alignment: 9
+      pivot: {x: 0.21767066, y: 0.5379592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974620f254d7d14e0800000000000000
+      internalID: -2009312122642471815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAttack 10018
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 775
+        width: 248
+        height: 245
+      alignment: 9
+      pivot: {x: 0.21451612, y: 0.5379592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b0547204ccd2ba0800000000000000
+      internalID: -6112004543363085491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAttack 10019
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 776
+        width: 248
+        height: 244
+      alignment: 9
+      pivot: {x: 0.21048386, y: 0.54016393}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a7b84c8486d75c0800000000000000
+      internalID: -4216099014404506995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAttack 10020
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 776
+        width: 247
+        height: 244
+      alignment: 9
+      pivot: {x: 0.20728743, y: 0.54016393}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dee28045dc564930800000000000000
+      internalID: 4127088179511750353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAttack 10021
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 776
+        width: 246
+        height: 244
+      alignment: 9
+      pivot: {x: 0.20406502, y: 0.54016393}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b6f9547bd98c980800000000000000
+      internalID: -8518385284698641619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAttack 10022
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 776
+        width: 246
+        height: 244
+      alignment: 9
+      pivot: {x: 0.19999999, y: 0.54016393}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d5013ff6e19e46f0800000000000000
+      internalID: -698460470885939754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAttack 10023
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 526
+        width: 245
+        height: 244
+      alignment: 9
+      pivot: {x: 0.19673468, y: 0.54016393}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c30ef6b3bb6a630800000000000000
+      internalID: 3938040788136508513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAttack 10024
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 526
+        width: 244
+        height: 244
+      alignment: 9
+      pivot: {x: 0.19344261, y: 0.5442623}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0199a62bdb4e236c0800000000000000
+      internalID: -4165015201971005168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAttack 10025
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 526
+        width: 247
+        height: 244
+      alignment: 9
+      pivot: {x: 0.20323886, y: 0.54016393}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b26a55bbcabb787e0800000000000000
+      internalID: -1763234378540538325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAttack 10026
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 526
+        width: 251
+        height: 244
+      alignment: 9
+      pivot: {x: 0.21593624, y: 0.54016393}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa28908dc2df26730800000000000000
+      internalID: 3991030588848571055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAttack 10027
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 527
+        width: 255
+        height: 243
+      alignment: 9
+      pivot: {x: 0.22823529, y: 0.54238683}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23fe7ac297d5245e0800000000000000
+      internalID: -1926874915539521742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAttack 10028
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 527
+        width: 258
+        height: 243
+      alignment: 9
+      pivot: {x: 0.23720929, y: 0.54238683}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b01a7bccef3b62590800000000000000
+      internalID: -7699268606005632757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAttack 10029
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 528
+        width: 261
+        height: 242
+      alignment: 9
+      pivot: {x: 0.245977, y: 0.5446281}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a7cf462a897aaa0800000000000000
+      internalID: -6149778942904731113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAttack 10030
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 280
+        width: 264
+        height: 241
+      alignment: 9
+      pivot: {x: 0.25454545, y: 0.546888}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe8354e5670b9f80800000000000000
+      internalID: -8098871370691932420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAttack 10031
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 282
+        width: 267
+        height: 239
+      alignment: 9
+      pivot: {x: 0.26292133, y: 0.55146444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b579d288b9659b10800000000000000
+      internalID: 1987611051744130485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAttack 10032
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 276
+        width: 269
+        height: 245
+      alignment: 9
+      pivot: {x: 0.26096654, y: 0.5542857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ab13cd9d996bb90800000000000000
+      internalID: -7226419391088182635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAttack 10033
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 272
+        width: 270
+        height: 249
+      alignment: 9
+      pivot: {x: 0.26, y: 0.5534137}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea6d4861b507c190800000000000000
+      internalID: -7942373158327325978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAttack 10034
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 270
+        width: 271
+        height: 251
+      alignment: 9
+      pivot: {x: 0.25904056, y: 0.55298805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0ac7b021ca84efb0800000000000000
+      internalID: -4619414755693049330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAttack 10035
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 268
+        width: 273
+        height: 253
+      alignment: 9
+      pivot: {x: 0.26080585, y: 0.5486166}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb0cc818eb40e670800000000000000
+      internalID: 8565929951479204853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAttack 10036
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 269
+        width: 273
+        height: 252
+      alignment: 9
+      pivot: {x: 0.26080585, y: 0.54285717}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 426991f96379fa370800000000000000
+      internalID: 8336047696139359780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAttack 10037
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 11
+        width: 272
+        height: 252
+      alignment: 9
+      pivot: {x: 0.2617647, y: 0.53492063}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c0dfe6892dfa3c0800000000000000
+      internalID: -4346023563250299880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAttack 10038
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 13
+        width: 271
+        height: 250
+      alignment: 9
+      pivot: {x: 0.26273063, y: 0.52320004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dddcc69aaf9efced0800000000000000
+      internalID: -2391435614316868131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAttack 10039
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 14
+        width: 269
+        height: 249
+      alignment: 9
+      pivot: {x: 0.264684, y: 0.5172691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fec5f2cd08fb9600800000000000000
+      internalID: 476246923606871794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Occurrence PersoAttack 10002: 1875333541644384472
+      Occurrence PersoAttack 10008: -1504325824535114739
+      Occurrence PersoAttack 10012: 696880203112652903
+      Occurrence PersoAttack 10018: -6112004543363085491
+      Occurrence PersoAttack 10017: -2009312122642471815
+      Occurrence PersoAttack 10038: -2391435614316868131
+      Occurrence PersoAttack 10019: -4216099014404506995
+      Occurrence PersoAttack 10027: -1926874915539521742
+      Occurrence PersoAttack 10036: 8336047696139359780
+      Occurrence PersoAttack 10028: -7699268606005632757
+      Occurrence PersoAttack 10022: -698460470885939754
+      Occurrence PersoAttack 10016: -1444795277411010687
+      Occurrence PersoAttack 10014: 5824493781060773810
+      Occurrence PersoAttack 10000: -6538482942717840739
+      Occurrence PersoAttack 10005: -7349329537195605784
+      Occurrence PersoAttack 10013: 1213126150324574698
+      Occurrence PersoAttack 10035: 8565929951479204853
+      Occurrence PersoAttack 10037: -4346023563250299880
+      Occurrence PersoAttack 10024: -4165015201971005168
+      Occurrence PersoAttack 10001: 2759911357239111871
+      Occurrence PersoAttack 10015: -8284130035202095202
+      Occurrence PersoAttack 10020: 4127088179511750353
+      Occurrence PersoAttack 10021: -8518385284698641619
+      Occurrence PersoAttack 10009: -8231934915815572341
+      Occurrence PersoAttack 10007: -1757918539412221705
+      Occurrence PersoAttack 10004: -2021120643587509552
+      Occurrence PersoAttack 10023: 3938040788136508513
+      Occurrence PersoAttack 10033: -7942373158327325978
+      Occurrence PersoAttack 10011: 6540551701955845734
+      Occurrence PersoAttack 10034: -4619414755693049330
+      Occurrence PersoAttack 10006: 6808217715424259633
+      Occurrence PersoAttack 10032: -7226419391088182635
+      Occurrence PersoAttack 10029: -6149778942904731113
+      Occurrence PersoAttack 10030: -8098871370691932420
+      Occurrence PersoAttack 10031: 1987611051744130485
+      Occurrence PersoAttack 10039: 476246923606871794
+      Occurrence PersoAttack 10026: 3991030588848571055
+      Occurrence PersoAttack 10025: -1763234378540538325
+      Occurrence PersoAttack 10003: 3982974188927683505
+      Occurrence PersoAttack 10010: -1383999838103428705
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

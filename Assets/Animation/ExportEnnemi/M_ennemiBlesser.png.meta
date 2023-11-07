@@ -1,0 +1,806 @@
+fileFormatVersion: 2
+guid: a32189969b461fd4498e83915c0bf89e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Occurrence ennemi2Blesser 10000
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 340
+        width: 117
+        height: 105
+      alignment: 9
+      pivot: {x: 0.48076922, y: 0.48619047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae3dbd2f4bd90b840800000000000000
+      internalID: 5237859767126053866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemi2Blesser 10001
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 340
+        width: 116
+        height: 105
+      alignment: 9
+      pivot: {x: 0.4849138, y: 0.48619047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87120804f7bb95260800000000000000
+      internalID: 7086901643861565816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemi2Blesser 10002
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 340
+        width: 116
+        height: 105
+      alignment: 9
+      pivot: {x: 0.49353448, y: 0.48619047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adabb07018c4a75f0800000000000000
+      internalID: -758209470205805862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemi2Blesser 10003
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 341
+        width: 115
+        height: 104
+      alignment: 9
+      pivot: {x: 0.4978261, y: 0.48125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f3fc02f703fa420800000000000000
+      internalID: 2643384828859203390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemi2Blesser 10004
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 341
+        width: 115
+        height: 104
+      alignment: 9
+      pivot: {x: 0.50652176, y: 0.48125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee74b78072cb23710800000000000000
+      internalID: 1671605287539918830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemi2Blesser 10005
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 341
+        width: 114
+        height: 104
+      alignment: 9
+      pivot: {x: 0.51096493, y: 0.48125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d98770f7086adb8e0800000000000000
+      internalID: -1676000415494735715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemi2Blesser 10006
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 340
+        width: 115
+        height: 105
+      alignment: 9
+      pivot: {x: 0.4978261, y: 0.48619047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff8eb18138ef0b3d0800000000000000
+      internalID: -3192772296807028481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemi2Blesser 10007
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 340
+        width: 114
+        height: 105
+      alignment: 9
+      pivot: {x: 0.48464912, y: 0.48619047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d6cf90995c7f9f10800000000000000
+      internalID: 2278676660593084121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemi2Blesser 10008
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 232
+        width: 114
+        height: 104
+      alignment: 9
+      pivot: {x: 0.4758772, y: 0.49086538}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9805fccdc01dc60800000000000000
+      internalID: 7841062568739244478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemi2Blesser 10009
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 231
+        width: 114
+        height: 105
+      alignment: 9
+      pivot: {x: 0.46710527, y: 0.49571428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f761123b1d049fac0800000000000000
+      internalID: -3820951539449522561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemi2Blesser 10010
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 231
+        width: 116
+        height: 105
+      alignment: 9
+      pivot: {x: 0.45905173, y: 0.49571428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f402fee3ce85d340800000000000000
+      internalID: 4887969942759146744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemi2Blesser 10011
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 232
+        width: 116
+        height: 104
+      alignment: 9
+      pivot: {x: 0.4676724, y: 0.49086538}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5556b4e8cae8401a0800000000000000
+      internalID: -6844188661923486379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemi2Blesser 10012
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 232
+        width: 117
+        height: 104
+      alignment: 9
+      pivot: {x: 0.48076922, y: 0.48125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ef2eb7221704a50800000000000000
+      internalID: 6503322254844296863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemi2Blesser 10013
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 231
+        width: 118
+        height: 105
+      alignment: 9
+      pivot: {x: 0.4851695, y: 0.47666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b9b238b740ace600800000000000000
+      internalID: 498949888624736695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemi2Blesser 10014
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 232
+        width: 119
+        height: 104
+      alignment: 9
+      pivot: {x: 0.49789914, y: 0.4716346}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58fd3ae93702dfb50800000000000000
+      internalID: 6628489907514105733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemi2Blesser 10015
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 232
+        width: 119
+        height: 104
+      alignment: 9
+      pivot: {x: 0.50630254, y: 0.46201923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e87351f289e3e90800000000000000
+      internalID: -7044025439174029794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemi2Blesser 10016
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 123
+        width: 120
+        height: 104
+      alignment: 9
+      pivot: {x: 0.49375, y: 0.46201923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e86427ac2895900800000000000000
+      internalID: 673713425280831003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemi2Blesser 10017
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 123
+        width: 121
+        height: 104
+      alignment: 9
+      pivot: {x: 0.4896694, y: 0.46201923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34efddd023ac45000800000000000000
+      internalID: 23866214373523011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemi2Blesser 10018
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 123
+        width: 121
+        height: 104
+      alignment: 9
+      pivot: {x: 0.48140496, y: 0.46201923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39456cba54a683df0800000000000000
+      internalID: -200293335950797677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemi2Blesser 10019
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 122
+        width: 123
+        height: 105
+      alignment: 9
+      pivot: {x: 0.47357723, y: 0.45761904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262918f6e957bd940800000000000000
+      internalID: 5321976708004418146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemi2Blesser 10020
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 123
+        width: 123
+        height: 104
+      alignment: 9
+      pivot: {x: 0.46544716, y: 0.45240384}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ba0545c3b52fb50800000000000000
+      internalID: 6625458316486159155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemi2Blesser 10021
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 123
+        width: 124
+        height: 104
+      alignment: 9
+      pivot: {x: 0.47782257, y: 0.46201923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd42aec6907d6cf20800000000000000
+      internalID: 3442675400653284575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemi2Blesser 10022
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 123
+        width: 124
+        height: 104
+      alignment: 9
+      pivot: {x: 0.49395162, y: 0.46201923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9ddfe6253ab57140800000000000000
+      internalID: 4716880922189749658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemi2Blesser 10023
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 123
+        width: 125
+        height: 104
+      alignment: 9
+      pivot: {x: 0.506, y: 0.4716346}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e62ee30728cb830800000000000000
+      internalID: 4088285980348542597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemi2Blesser 10024
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 14
+        width: 126
+        height: 104
+      alignment: 9
+      pivot: {x: 0.51785713, y: 0.4716346}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ec92edd4bdc4260800000000000000
+      internalID: 7083277441433194012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemi2Blesser 10025
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 15
+        width: 127
+        height: 103
+      alignment: 9
+      pivot: {x: 0.52952754, y: 0.47621357}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 683bc19928d7e65f0800000000000000
+      internalID: -761533287111019642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemi2Blesser 10026
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 14
+        width: 128
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5019531, y: 0.49086538}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 468469f7f6de6dfa0800000000000000
+      internalID: -5776168408918374300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemi2Blesser 10027
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 14
+        width: 128
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5019531, y: 0.49086538}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: babec3fb0ecfa9370800000000000000
+      internalID: 8330248502986468267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemi2Blesser 10028
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 14
+        width: 129
+        height: 104
+      alignment: 9
+      pivot: {x: 0.50581396, y: 0.49086538}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28ffe2dc0889dd820800000000000000
+      internalID: 2944677410335817602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemi2Blesser 10029
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 14
+        width: 130
+        height: 104
+      alignment: 9
+      pivot: {x: 0.50961536, y: 0.49086538}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0272b55abd287ef0800000000000000
+      internalID: -110287912545652209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemi2Blesser 10030
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 14
+        width: 129
+        height: 104
+      alignment: 9
+      pivot: {x: 0.50581396, y: 0.49086538}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb1ec72f3ae17580800000000000000
+      internalID: -8831019837325173782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Occurrence ennemi2Blesser 10011: -6844188661923486379
+      Occurrence ennemi2Blesser 10020: 6625458316486159155
+      Occurrence ennemi2Blesser 10023: 4088285980348542597
+      Occurrence ennemi2Blesser 10028: 2944677410335817602
+      Occurrence ennemi2Blesser 10007: 2278676660593084121
+      Occurrence ennemi2Blesser 10025: -761533287111019642
+      Occurrence ennemi2Blesser 10027: 8330248502986468267
+      Occurrence ennemi2Blesser 10013: 498949888624736695
+      Occurrence ennemi2Blesser 10006: -3192772296807028481
+      Occurrence ennemi2Blesser 10010: 4887969942759146744
+      Occurrence ennemi2Blesser 10026: -5776168408918374300
+      Occurrence ennemi2Blesser 10030: -8831019837325173782
+      Occurrence ennemi2Blesser 10014: 6628489907514105733
+      Occurrence ennemi2Blesser 10024: 7083277441433194012
+      Occurrence ennemi2Blesser 10008: 7841062568739244478
+      Occurrence ennemi2Blesser 10016: 673713425280831003
+      Occurrence ennemi2Blesser 10002: -758209470205805862
+      Occurrence ennemi2Blesser 10015: -7044025439174029794
+      Occurrence ennemi2Blesser 10000: 5237859767126053866
+      Occurrence ennemi2Blesser 10018: -200293335950797677
+      Occurrence ennemi2Blesser 10003: 2643384828859203390
+      Occurrence ennemi2Blesser 10004: 1671605287539918830
+      Occurrence ennemi2Blesser 10001: 7086901643861565816
+      Occurrence ennemi2Blesser 10021: 3442675400653284575
+      Occurrence ennemi2Blesser 10017: 23866214373523011
+      Occurrence ennemi2Blesser 10029: -110287912545652209
+      Occurrence ennemi2Blesser 10005: -1676000415494735715
+      Occurrence ennemi2Blesser 10012: 6503322254844296863
+      Occurrence ennemi2Blesser 10009: -3820951539449522561
+      Occurrence ennemi2Blesser 10019: 5321976708004418146
+      Occurrence ennemi2Blesser 10022: 4716880922189749658
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

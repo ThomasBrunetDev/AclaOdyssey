@@ -1,0 +1,960 @@
+fileFormatVersion: 2
+guid: 02188434964c6d34a8ed0dc2f4ecf8b6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Occurrence Symbole 3 10000
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 231
+        width: 120
+        height: 105
+      alignment: 9
+      pivot: {x: 0.4875, y: 0.4785714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce0a817c22c862d90800000000000000
+      internalID: -7122851679642803988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Symbole 3 10001
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 231
+        width: 120
+        height: 105
+      alignment: 9
+      pivot: {x: 0.4875, y: 0.4785714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 708b2d26954e0eec0800000000000000
+      internalID: -3539578234552010745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Symbole 3 10002
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 231
+        width: 121
+        height: 105
+      alignment: 9
+      pivot: {x: 0.49173555, y: 0.4785714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e23a5383d835b110800000000000000
+      internalID: 1275988550522385122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Symbole 3 10003
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 230
+        width: 121
+        height: 106
+      alignment: 9
+      pivot: {x: 0.49173555, y: 0.48349053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84020ec37020f7af0800000000000000
+      internalID: -396596012075966392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Symbole 3 10004
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 230
+        width: 121
+        height: 106
+      alignment: 9
+      pivot: {x: 0.49173555, y: 0.48349053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee2693e8cb70abdd0800000000000000
+      internalID: -2469652939237924114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Symbole 3 10005
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 230
+        width: 121
+        height: 106
+      alignment: 9
+      pivot: {x: 0.49173555, y: 0.48349053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea417ff67bdebb430800000000000000
+      internalID: 3799892082730407086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Symbole 3 10006
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 230
+        width: 121
+        height: 106
+      alignment: 9
+      pivot: {x: 0.49173555, y: 0.48349053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e5dc5e3b5f9f9bf0800000000000000
+      internalID: -315358234655533598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Symbole 3 10007
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 229
+        width: 121
+        height: 107
+      alignment: 9
+      pivot: {x: 0.49173555, y: 0.48831773}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb12bd1abbce95c00800000000000000
+      internalID: 890002692000915900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Symbole 3 10008
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 229
+        width: 122
+        height: 107
+      alignment: 9
+      pivot: {x: 0.49590164, y: 0.48831773}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c6596ed65083030800000000000000
+      internalID: 3474533082094464152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Symbole 3 10009
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 229
+        width: 122
+        height: 107
+      alignment: 9
+      pivot: {x: 0.49590164, y: 0.48831773}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4cd150beef23dad0800000000000000
+      internalID: -2678744651148436406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Symbole 3 10010
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 229
+        width: 123
+        height: 107
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48831773}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d1ced59f7a17fa0800000000000000
+      internalID: -5804673755239408250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Symbole 3 10011
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 231
+        width: 125
+        height: 105
+      alignment: 9
+      pivot: {x: 0.508, y: 0.4785714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 035347d4134f9fde0800000000000000
+      internalID: -1298738524929641168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Symbole 3 10012
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 232
+        width: 127
+        height: 104
+      alignment: 9
+      pivot: {x: 0.515748, y: 0.47355765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f28ede841d2f9ac70800000000000000
+      internalID: 8982977912452802607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Symbole 3 10013
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 232
+        width: 125
+        height: 104
+      alignment: 9
+      pivot: {x: 0.508, y: 0.47355765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3edb7535c048ba20800000000000000
+      internalID: 3078281561057779261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Symbole 3 10014
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 120
+        width: 126
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5119048, y: 0.4785714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c94b7ceb661c4c0800000000000000
+      internalID: -4269018002190197671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Symbole 3 10015
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 120
+        width: 127
+        height: 105
+      alignment: 9
+      pivot: {x: 0.515748, y: 0.4785714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84bbab373d6af6110800000000000000
+      internalID: 1256406248169585480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Symbole 3 10016
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 120
+        width: 128
+        height: 105
+      alignment: 9
+      pivot: {x: 0.51953125, y: 0.4785714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2248825e0b8bcdf30800000000000000
+      internalID: 4601755989164196898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Symbole 3 10017
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 120
+        width: 128
+        height: 105
+      alignment: 9
+      pivot: {x: 0.51953125, y: 0.4785714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e768da6c46d0640800000000000000
+      internalID: 5047801561829768710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Symbole 3 10018
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 120
+        width: 129
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5232558, y: 0.4785714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 166f4337bca5a9e10800000000000000
+      internalID: 2205174797408990817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Symbole 3 10019
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 119
+        width: 129
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5232558, y: 0.48349053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a685ee26b969ac290800000000000000
+      internalID: -7869311804752635798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Symbole 3 10020
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 119
+        width: 128
+        height: 106
+      alignment: 9
+      pivot: {x: 0.51953125, y: 0.48349053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65946c75e808aa220800000000000000
+      internalID: 2497950292176685398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Symbole 3 10021
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 120
+        width: 128
+        height: 105
+      alignment: 9
+      pivot: {x: 0.51953125, y: 0.4785714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 205a62089fa811fa0800000000000000
+      internalID: -5831727238266575614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Symbole 3 10022
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 120
+        width: 127
+        height: 105
+      alignment: 9
+      pivot: {x: 0.515748, y: 0.4785714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1488bee1c0dcb8e30800000000000000
+      internalID: 4506921304056367169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Symbole 3 10023
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 120
+        width: 127
+        height: 105
+      alignment: 9
+      pivot: {x: 0.515748, y: 0.4785714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb82e7e7c0fec73e0800000000000000
+      internalID: -2054504493046945604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Symbole 3 10024
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 120
+        width: 127
+        height: 105
+      alignment: 9
+      pivot: {x: 0.515748, y: 0.4785714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718a10289eeed15a0800000000000000
+      internalID: -6548815596450895849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Symbole 3 10025
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 120
+        width: 126
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5119048, y: 0.4785714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a75967297717601c0800000000000000
+      internalID: -4537814816156904070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Symbole 3 10026
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 122
+        width: 121
+        height: 103
+      alignment: 9
+      pivot: {x: 0.49173555, y: 0.46844655}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1edcf9abe6094050800000000000000
+      internalID: 5785162805573115423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Symbole 3 10027
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 124
+        width: 117
+        height: 101
+      alignment: 9
+      pivot: {x: 0.47435898, y: 0.45792076}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c65a7ddfae13b630800000000000000
+      internalID: 3941527839563208391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Symbole 3 10028
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 13
+        width: 114
+        height: 102
+      alignment: 9
+      pivot: {x: 0.46052632, y: 0.46323526}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c2b9078bc27d1d0800000000000000
+      internalID: -3326140629114999692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Symbole 3 10029
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 5
+        width: 114
+        height: 110
+      alignment: 9
+      pivot: {x: 0.46052632, y: 0.50227267}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e318a529372c7b0800000000000000
+      internalID: -5205471146866033138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Symbole 3 10030
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 28
+        width: 88
+        height: 87
+      alignment: 9
+      pivot: {x: 0.4943182, y: 0.7155172}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 749f7aa67620dc5a0800000000000000
+      internalID: -6499536044031477433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Symbole 3 10031
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 89
+        width: 79
+        height: 26
+      alignment: 9
+      pivot: {x: 0.47468355, y: 1.5096152}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a50aa5bcde0ef950800000000000000
+      internalID: 6484636854563505577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Symbole 3 10032
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 93
+        width: 72
+        height: 22
+      alignment: 9
+      pivot: {x: 0.4652778, y: 1.6931816}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e33cfd771f833e0800000000000000
+      internalID: -2073642131246596449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Symbole 3 10033
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 97
+        width: 65
+        height: 18
+      alignment: 9
+      pivot: {x: 0.45384616, y: 1.9583331}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b98039bd03cf370800000000000000
+      internalID: 8357608728115583797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Symbole 3 10034
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 98
+        width: 62
+        height: 17
+      alignment: 9
+      pivot: {x: 0.47580644, y: 2.0735292}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb5050c356683ede0800000000000000
+      internalID: -1305051697650530885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Symbole 3 10035
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 100
+        width: 59
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 2.3499997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c47e237f804af5b00800000000000000
+      internalID: 819554015618721612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Symbole 3 10036
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 102
+        width: 37
+        height: 13
+      alignment: 9
+      pivot: {x: 0.22972973, y: 2.557692}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8de12de28aa9fc80800000000000000
+      internalID: -8288406159897793141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Symbole 3 10037
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 102
+        width: 37
+        height: 13
+      alignment: 9
+      pivot: {x: 0.22972973, y: 2.557692}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d48041c6808808a0800000000000000
+      internalID: -6338675159267769135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Occurrence Symbole 3 10009: -2678744651148436406
+      Occurrence Symbole 3 10036: -8288406159897793141
+      Occurrence Symbole 3 10028: -3326140629114999692
+      Occurrence Symbole 3 10033: 8357608728115583797
+      Occurrence Symbole 3 10022: 4506921304056367169
+      Occurrence Symbole 3 10017: 5047801561829768710
+      Occurrence Symbole 3 10000: -7122851679642803988
+      Occurrence Symbole 3 10015: 1256406248169585480
+      Occurrence Symbole 3 10027: 3941527839563208391
+      Occurrence Symbole 3 10018: 2205174797408990817
+      Occurrence Symbole 3 10032: -2073642131246596449
+      Occurrence Symbole 3 10029: -5205471146866033138
+      Occurrence Symbole 3 10016: 4601755989164196898
+      Occurrence Symbole 3 10019: -7869311804752635798
+      Occurrence Symbole 3 10034: -1305051697650530885
+      Occurrence Symbole 3 10010: -5804673755239408250
+      Occurrence Symbole 3 10002: 1275988550522385122
+      Occurrence Symbole 3 10011: -1298738524929641168
+      Occurrence Symbole 3 10012: 8982977912452802607
+      Occurrence Symbole 3 10031: 6484636854563505577
+      Occurrence Symbole 3 10001: -3539578234552010745
+      Occurrence Symbole 3 10003: -396596012075966392
+      Occurrence Symbole 3 10014: -4269018002190197671
+      Occurrence Symbole 3 10023: -2054504493046945604
+      Occurrence Symbole 3 10025: -4537814816156904070
+      Occurrence Symbole 3 10030: -6499536044031477433
+      Occurrence Symbole 3 10004: -2469652939237924114
+      Occurrence Symbole 3 10024: -6548815596450895849
+      Occurrence Symbole 3 10006: -315358234655533598
+      Occurrence Symbole 3 10026: 5785162805573115423
+      Occurrence Symbole 3 10008: 3474533082094464152
+      Occurrence Symbole 3 10007: 890002692000915900
+      Occurrence Symbole 3 10035: 819554015618721612
+      Occurrence Symbole 3 10013: 3078281561057779261
+      Occurrence Symbole 3 10020: 2497950292176685398
+      Occurrence Symbole 3 10005: 3799892082730407086
+      Occurrence Symbole 3 10021: -5831727238266575614
+      Occurrence Symbole 3 10037: -6338675159267769135
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

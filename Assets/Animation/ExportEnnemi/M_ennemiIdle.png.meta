@@ -1,0 +1,1466 @@
+fileFormatVersion: 2
+guid: 87649a40fa22fec4a97cbba5fbeeb090
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Occurrence Ennemi2Anim 10000
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 782
+        width: 119
+        height: 106
+      alignment: 9
+      pivot: {x: 0.45546216, y: 0.48396227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1355f4facd29886f0800000000000000
+      internalID: -682133867014957775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Ennemi2Anim 10001
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 782
+        width: 121
+        height: 106
+      alignment: 9
+      pivot: {x: 0.4644628, y: 0.48396227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7f51fd8b6a96050800000000000000
+      internalID: 5794345708535805923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Ennemi2Anim 10002
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 782
+        width: 123
+        height: 106
+      alignment: 9
+      pivot: {x: 0.4731707, y: 0.48396227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87da982a687014380800000000000000
+      internalID: -8988895106420855432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Ennemi2Anim 10003
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 781
+        width: 125
+        height: 107
+      alignment: 9
+      pivot: {x: 0.4816, y: 0.48878503}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1378eb64cb8c1d40800000000000000
+      internalID: 5556469716008596250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Ennemi2Anim 10004
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 781
+        width: 127
+        height: 107
+      alignment: 9
+      pivot: {x: 0.48976377, y: 0.48878503}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab0bd958c9c81860800000000000000
+      internalID: 7500967041723730852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Ennemi2Anim 10005
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 781
+        width: 125
+        height: 107
+      alignment: 9
+      pivot: {x: 0.4816, y: 0.48878503}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f4a89d5ff401450800000000000000
+      internalID: 6057429416148619022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Ennemi2Anim 10006
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 781
+        width: 124
+        height: 107
+      alignment: 9
+      pivot: {x: 0.47741932, y: 0.48878503}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da27a340c3f9cbb70800000000000000
+      internalID: 8916176442404532909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Ennemi2Anim 10007
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 781
+        width: 122
+        height: 107
+      alignment: 9
+      pivot: {x: 0.46885243, y: 0.48878503}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9386a76a22df81e20800000000000000
+      internalID: 3321683050449496121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Ennemi2Anim 10008
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 671
+        width: 121
+        height: 106
+      alignment: 9
+      pivot: {x: 0.4644628, y: 0.48396227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c76bcd6b0d08272a0800000000000000
+      internalID: -6741184058310740356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Ennemi2Anim 10009
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 671
+        width: 119
+        height: 106
+      alignment: 9
+      pivot: {x: 0.45546216, y: 0.48396227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb5d2a615f985e30800000000000000
+      internalID: 4492515800324594678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Ennemi2Anim 10010
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 671
+        width: 118
+        height: 106
+      alignment: 9
+      pivot: {x: 0.45084742, y: 0.48396227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f015ddf1b83f7dc10800000000000000
+      internalID: 2078397531915374863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Ennemi2Anim 10011
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 671
+        width: 117
+        height: 106
+      alignment: 9
+      pivot: {x: 0.44615382, y: 0.48396227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b26cb4a286abdc980800000000000000
+      internalID: -8516946363738765781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Ennemi2Anim 10012
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 672
+        width: 116
+        height: 105
+      alignment: 9
+      pivot: {x: 0.44137928, y: 0.47904763}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4441fef7d50d97970800000000000000
+      internalID: 8753256450768180292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Ennemi2Anim 10013
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 672
+        width: 116
+        height: 105
+      alignment: 9
+      pivot: {x: 0.44137928, y: 0.47904763}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e4aa5fcc5d1e7200800000000000000
+      internalID: 179613319594419427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Ennemi2Anim 10014
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 672
+        width: 116
+        height: 105
+      alignment: 9
+      pivot: {x: 0.44137928, y: 0.47904763}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dde47502f65c7320800000000000000
+      internalID: 2557014285913222608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Ennemi2Anim 10015
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 673
+        width: 116
+        height: 104
+      alignment: 9
+      pivot: {x: 0.44137928, y: 0.47403845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3b70373e866e7e0800000000000000
+      internalID: -1736585280207997982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Ennemi2Anim 10016
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 563
+        width: 115
+        height: 104
+      alignment: 9
+      pivot: {x: 0.4365217, y: 0.47403845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 612e625fb439897a0800000000000000
+      internalID: -6370179718470770154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Ennemi2Anim 10017
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 563
+        width: 115
+        height: 104
+      alignment: 9
+      pivot: {x: 0.4365217, y: 0.47403845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 844a63f40df3a5370800000000000000
+      internalID: 8312026226180400200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Ennemi2Anim 10018
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 563
+        width: 115
+        height: 104
+      alignment: 9
+      pivot: {x: 0.4365217, y: 0.47403845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d3dd9d79b659fc0800000000000000
+      internalID: -3488764036389192319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Ennemi2Anim 10019
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 563
+        width: 114
+        height: 104
+      alignment: 9
+      pivot: {x: 0.43157893, y: 0.47403845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1fd377a643786ea0800000000000000
+      internalID: -5879322566237888739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Ennemi2Anim 10020
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 563
+        width: 114
+        height: 104
+      alignment: 9
+      pivot: {x: 0.43157893, y: 0.47403845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 543d4050847d1d560800000000000000
+      internalID: 7336881972285068101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Ennemi2Anim 10021
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 563
+        width: 114
+        height: 104
+      alignment: 9
+      pivot: {x: 0.43157893, y: 0.47403845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262dd57d07fb2fee0800000000000000
+      internalID: -1228709256948231582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Ennemi2Anim 10022
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 563
+        width: 115
+        height: 104
+      alignment: 9
+      pivot: {x: 0.4365217, y: 0.47403845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8776c1dfbc78515b0800000000000000
+      internalID: -5398259268139063432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Ennemi2Anim 10023
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 563
+        width: 115
+        height: 104
+      alignment: 9
+      pivot: {x: 0.4365217, y: 0.47403845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124dc930202d06fb0800000000000000
+      internalID: -4656491108608715743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Ennemi2Anim 10024
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 455
+        width: 116
+        height: 104
+      alignment: 9
+      pivot: {x: 0.44137928, y: 0.47403845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6304efe798c820020800000000000000
+      internalID: 2306560481336115254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Ennemi2Anim 10025
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 455
+        width: 117
+        height: 104
+      alignment: 9
+      pivot: {x: 0.44615382, y: 0.47403845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc46f8bfc55920580800000000000000
+      internalID: -8862356890121706293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Ennemi2Anim 10026
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 455
+        width: 118
+        height: 104
+      alignment: 9
+      pivot: {x: 0.45084742, y: 0.47403845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 769a32ae4dd5fa670800000000000000
+      internalID: 8552157386442516839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Ennemi2Anim 10027
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 455
+        width: 119
+        height: 104
+      alignment: 9
+      pivot: {x: 0.45546216, y: 0.47403845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb1a2bffc1c0aa370800000000000000
+      internalID: 8334487379091038652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Ennemi2Anim 10028
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 455
+        width: 119
+        height: 104
+      alignment: 9
+      pivot: {x: 0.45546216, y: 0.47403845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90566a59e97471c50800000000000000
+      internalID: 6635851322394830089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Ennemi2Anim 10029
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 455
+        width: 120
+        height: 104
+      alignment: 9
+      pivot: {x: 0.45999998, y: 0.47403845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9000f7b0fa9d934f0800000000000000
+      internalID: -848407708947251191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Ennemi2Anim 10030
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 455
+        width: 121
+        height: 104
+      alignment: 9
+      pivot: {x: 0.4644628, y: 0.47403845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55bf767c19b2be420800000000000000
+      internalID: 2660267910008142677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Ennemi2Anim 10031
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 455
+        width: 122
+        height: 104
+      alignment: 9
+      pivot: {x: 0.46885243, y: 0.47403845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 284fdb41646e46d10800000000000000
+      internalID: 2118070913441068162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Ennemi2Anim 10032
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 347
+        width: 122
+        height: 104
+      alignment: 9
+      pivot: {x: 0.46885243, y: 0.47403845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a09c551360341c10800000000000000
+      internalID: 2023295334714478759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Ennemi2Anim 10033
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 347
+        width: 123
+        height: 104
+      alignment: 9
+      pivot: {x: 0.4731707, y: 0.47403845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9ae3aa074055b60800000000000000
+      internalID: 7734092817017776553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Ennemi2Anim 10034
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 347
+        width: 124
+        height: 104
+      alignment: 9
+      pivot: {x: 0.47741932, y: 0.47403845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbfc2eaa7315f7f10800000000000000
+      internalID: 2269622036750061501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Ennemi2Anim 10035
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 348
+        width: 125
+        height: 103
+      alignment: 9
+      pivot: {x: 0.4816, y: 0.46893203}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61dd5bc9bc2a974f0800000000000000
+      internalID: -830453660881920746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Ennemi2Anim 10036
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 348
+        width: 125
+        height: 103
+      alignment: 9
+      pivot: {x: 0.4816, y: 0.46893203}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ecc331772be16d0800000000000000
+      internalID: -3017778475798049223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Ennemi2Anim 10037
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 348
+        width: 126
+        height: 103
+      alignment: 9
+      pivot: {x: 0.48571426, y: 0.46893203}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35469b78c350feaa0800000000000000
+      internalID: -6129674810294705069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Ennemi2Anim 10038
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 348
+        width: 127
+        height: 103
+      alignment: 9
+      pivot: {x: 0.48976377, y: 0.46893203}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0dd609f5900dc5d0800000000000000
+      internalID: -3040773529277113076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Ennemi2Anim 10039
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 240
+        width: 128
+        height: 103
+      alignment: 9
+      pivot: {x: 0.49374998, y: 0.46893203}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1055136f1fc657660800000000000000
+      internalID: 7382926950617142529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Ennemi2Anim 10040
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 240
+        width: 128
+        height: 103
+      alignment: 9
+      pivot: {x: 0.49374998, y: 0.46893203}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67c99d18fc0ba6f0800000000000000
+      internalID: -672429459573717142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Ennemi2Anim 10041
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 240
+        width: 129
+        height: 103
+      alignment: 9
+      pivot: {x: 0.4976744, y: 0.46893203}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4ba0f2b35867b00800000000000000
+      internalID: 825994070907860150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Ennemi2Anim 10042
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 240
+        width: 130
+        height: 103
+      alignment: 9
+      pivot: {x: 0.50153846, y: 0.46893203}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e9c5da7bc216800800000000000000
+      internalID: 603812992443522643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Ennemi2Anim 10043
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 240
+        width: 129
+        height: 103
+      alignment: 9
+      pivot: {x: 0.4976744, y: 0.46893203}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8adfce71458a53b40800000000000000
+      internalID: 5419422805742386600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Ennemi2Anim 10044
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 240
+        width: 128
+        height: 103
+      alignment: 9
+      pivot: {x: 0.49374998, y: 0.46893203}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818a00c7cce2d5bf0800000000000000
+      internalID: -334059341566924776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Ennemi2Anim 10045
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 240
+        width: 127
+        height: 103
+      alignment: 9
+      pivot: {x: 0.48976377, y: 0.46893203}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bfe26e7bf5bc8120800000000000000
+      internalID: 2417507191752945585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Ennemi2Anim 10046
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 133
+        width: 125
+        height: 103
+      alignment: 9
+      pivot: {x: 0.4816, y: 0.46893203}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7085ee883d7868d0800000000000000
+      internalID: -2852892682070163332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Ennemi2Anim 10047
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 133
+        width: 124
+        height: 103
+      alignment: 9
+      pivot: {x: 0.47741932, y: 0.46893203}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e94451be68acfb0800000000000000
+      internalID: -4626737322937508194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Ennemi2Anim 10048
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 133
+        width: 123
+        height: 103
+      alignment: 9
+      pivot: {x: 0.4731707, y: 0.46893203}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bddcf5cc8863fbde0800000000000000
+      internalID: -1315272604996612645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Ennemi2Anim 10049
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 133
+        width: 122
+        height: 103
+      alignment: 9
+      pivot: {x: 0.46885243, y: 0.46893203}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b56fac6a0f3e17f90800000000000000
+      internalID: -6957529326580730277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Ennemi2Anim 10050
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 133
+        width: 121
+        height: 103
+      alignment: 9
+      pivot: {x: 0.4644628, y: 0.46893203}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a0d0dfb0072730b0800000000000000
+      internalID: -5749083515143532375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Ennemi2Anim 10051
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 133
+        width: 120
+        height: 103
+      alignment: 9
+      pivot: {x: 0.45999998, y: 0.46893203}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1def34599e77fa0800000000000000
+      internalID: -5802912767543422520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Ennemi2Anim 10052
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 133
+        width: 118
+        height: 103
+      alignment: 9
+      pivot: {x: 0.45084742, y: 0.46893203}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3d81f02572b1fd0800000000000000
+      internalID: -2370257545486347350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Ennemi2Anim 10053
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 132
+        width: 117
+        height: 104
+      alignment: 9
+      pivot: {x: 0.44615382, y: 0.47403845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf0c4ecf7efe8860800000000000000
+      internalID: 7534239051512811463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Ennemi2Anim 10054
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 24
+        width: 116
+        height: 104
+      alignment: 9
+      pivot: {x: 0.44137928, y: 0.47403845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32246c28fce2b2160800000000000000
+      internalID: 7001741514464707107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Ennemi2Anim 10055
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 23
+        width: 115
+        height: 105
+      alignment: 9
+      pivot: {x: 0.4365217, y: 0.47904763}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab22774b130925a20800000000000000
+      internalID: 3049658440838750906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Ennemi2Anim 10056
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 24
+        width: 115
+        height: 104
+      alignment: 9
+      pivot: {x: 0.4365217, y: 0.47403845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3718e880be6f55b00800000000000000
+      internalID: 816830396758917491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Ennemi2Anim 10057
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 23
+        width: 115
+        height: 105
+      alignment: 9
+      pivot: {x: 0.4365217, y: 0.47904763}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f1ca3d605e3d2d0800000000000000
+      internalID: -3255006288174899395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Ennemi2Anim 10058
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 23
+        width: 115
+        height: 105
+      alignment: 9
+      pivot: {x: 0.4365217, y: 0.47904763}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e61757474c35790800000000000000
+      internalID: -7542468946449830360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Ennemi2Anim 10059
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 23
+        width: 116
+        height: 105
+      alignment: 9
+      pivot: {x: 0.44137928, y: 0.47904763}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2186298f63516060800000000000000
+      internalID: 6944923838889492780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Ennemi2Anim 10060
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 22
+        width: 117
+        height: 106
+      alignment: 9
+      pivot: {x: 0.44615382, y: 0.48396227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6291fa078f6eb5a0800000000000000
+      internalID: -6503638186081545622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Occurrence Ennemi2Anim 10043: 5419422805742386600
+      Occurrence Ennemi2Anim 10017: 8312026226180400200
+      Occurrence Ennemi2Anim 10016: -6370179718470770154
+      Occurrence Ennemi2Anim 10059: 6944923838889492780
+      Occurrence Ennemi2Anim 10054: 7001741514464707107
+      Occurrence Ennemi2Anim 10004: 7500967041723730852
+      Occurrence Ennemi2Anim 10021: -1228709256948231582
+      Occurrence Ennemi2Anim 10027: 8334487379091038652
+      Occurrence Ennemi2Anim 10023: -4656491108608715743
+      Occurrence Ennemi2Anim 10038: -3040773529277113076
+      Occurrence Ennemi2Anim 10019: -5879322566237888739
+      Occurrence Ennemi2Anim 10049: -6957529326580730277
+      Occurrence Ennemi2Anim 10040: -672429459573717142
+      Occurrence Ennemi2Anim 10046: -2852892682070163332
+      Occurrence Ennemi2Anim 10013: 179613319594419427
+      Occurrence Ennemi2Anim 10033: 7734092817017776553
+      Occurrence Ennemi2Anim 10024: 2306560481336115254
+      Occurrence Ennemi2Anim 10010: 2078397531915374863
+      Occurrence Ennemi2Anim 10026: 8552157386442516839
+      Occurrence Ennemi2Anim 10014: 2557014285913222608
+      Occurrence Ennemi2Anim 10039: 7382926950617142529
+      Occurrence Ennemi2Anim 10051: -5802912767543422520
+      Occurrence Ennemi2Anim 10042: 603812992443522643
+      Occurrence Ennemi2Anim 10012: 8753256450768180292
+      Occurrence Ennemi2Anim 10006: 8916176442404532909
+      Occurrence Ennemi2Anim 10044: -334059341566924776
+      Occurrence Ennemi2Anim 10037: -6129674810294705069
+      Occurrence Ennemi2Anim 10041: 825994070907860150
+      Occurrence Ennemi2Anim 10034: 2269622036750061501
+      Occurrence Ennemi2Anim 10030: 2660267910008142677
+      Occurrence Ennemi2Anim 10029: -848407708947251191
+      Occurrence Ennemi2Anim 10015: -1736585280207997982
+      Occurrence Ennemi2Anim 10031: 2118070913441068162
+      Occurrence Ennemi2Anim 10047: -4626737322937508194
+      Occurrence Ennemi2Anim 10008: -6741184058310740356
+      Occurrence Ennemi2Anim 10001: 5794345708535805923
+      Occurrence Ennemi2Anim 10020: 7336881972285068101
+      Occurrence Ennemi2Anim 10058: -7542468946449830360
+      Occurrence Ennemi2Anim 10025: -8862356890121706293
+      Occurrence Ennemi2Anim 10028: 6635851322394830089
+      Occurrence Ennemi2Anim 10045: 2417507191752945585
+      Occurrence Ennemi2Anim 10002: -8988895106420855432
+      Occurrence Ennemi2Anim 10048: -1315272604996612645
+      Occurrence Ennemi2Anim 10000: -682133867014957775
+      Occurrence Ennemi2Anim 10005: 6057429416148619022
+      Occurrence Ennemi2Anim 10032: 2023295334714478759
+      Occurrence Ennemi2Anim 10036: -3017778475798049223
+      Occurrence Ennemi2Anim 10022: -5398259268139063432
+      Occurrence Ennemi2Anim 10056: 816830396758917491
+      Occurrence Ennemi2Anim 10050: -5749083515143532375
+      Occurrence Ennemi2Anim 10018: -3488764036389192319
+      Occurrence Ennemi2Anim 10055: 3049658440838750906
+      Occurrence Ennemi2Anim 10011: -8516946363738765781
+      Occurrence Ennemi2Anim 10052: -2370257545486347350
+      Occurrence Ennemi2Anim 10003: 5556469716008596250
+      Occurrence Ennemi2Anim 10009: 4492515800324594678
+      Occurrence Ennemi2Anim 10053: 7534239051512811463
+      Occurrence Ennemi2Anim 10007: 3321683050449496121
+      Occurrence Ennemi2Anim 10060: -6503638186081545622
+      Occurrence Ennemi2Anim 10057: -3255006288174899395
+      Occurrence Ennemi2Anim 10035: -830453660881920746
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: AtlasTuile
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 2
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 0dfb7808971e6d0409b3d80035d6e9c4, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 0dfb7808971e6d0409b3d80035d6e9c4: -62373272
+    - 0dfb7808971e6d0409b3d80035d6e9c4: 663800079
+    - 0dfb7808971e6d0409b3d80035d6e9c4: 162418136
+    - 0dfb7808971e6d0409b3d80035d6e9c4: 559208275
+    - 0dfb7808971e6d0409b3d80035d6e9c4: 393984291
+    - 0dfb7808971e6d0409b3d80035d6e9c4: 2011388610
+    - 0dfb7808971e6d0409b3d80035d6e9c4: -2011151174
+    - 0dfb7808971e6d0409b3d80035d6e9c4: 471481990
+    - 0dfb7808971e6d0409b3d80035d6e9c4: -1768156541
+    - 0dfb7808971e6d0409b3d80035d6e9c4: 377573411
+    - 0dfb7808971e6d0409b3d80035d6e9c4: -1797834862
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: -62373272, guid: 0dfb7808971e6d0409b3d80035d6e9c4, type: 3}
+  - {fileID: 663800079, guid: 0dfb7808971e6d0409b3d80035d6e9c4, type: 3}
+  - {fileID: 162418136, guid: 0dfb7808971e6d0409b3d80035d6e9c4, type: 3}
+  - {fileID: 559208275, guid: 0dfb7808971e6d0409b3d80035d6e9c4, type: 3}
+  - {fileID: 393984291, guid: 0dfb7808971e6d0409b3d80035d6e9c4, type: 3}
+  - {fileID: 2011388610, guid: 0dfb7808971e6d0409b3d80035d6e9c4, type: 3}
+  - {fileID: -2011151174, guid: 0dfb7808971e6d0409b3d80035d6e9c4, type: 3}
+  - {fileID: 471481990, guid: 0dfb7808971e6d0409b3d80035d6e9c4, type: 3}
+  - {fileID: -1768156541, guid: 0dfb7808971e6d0409b3d80035d6e9c4, type: 3}
+  - {fileID: 377573411, guid: 0dfb7808971e6d0409b3d80035d6e9c4, type: 3}
+  - {fileID: -1797834862, guid: 0dfb7808971e6d0409b3d80035d6e9c4, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - tuile_exportation_9
+  - tuile_exportation_8
+  - tuile_exportation_7
+  - tuile_exportation_6
+  - tuile_exportation_5
+  - tuile_exportation_4
+  - tuile_exportation_3
+  - tuile_exportation_2
+  - tuile_exportation_1
+  - tuile_exportation_0
+  - tuile_exportation_10
+  m_RenderDataMap: {}
+  m_Tag: AtlasTuile
+  m_IsVariant: 0

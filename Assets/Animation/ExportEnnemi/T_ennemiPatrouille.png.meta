@@ -1,0 +1,1930 @@
+fileFormatVersion: 2
+guid: de09eb73846fca14b9c2f12bd7148d91
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Occurrence ennemiMarcheVague 10000
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1494
+        width: 194
+        height: 201
+      alignment: 9
+      pivot: {x: 0.59458756, y: 0.55248755}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2ac082743a08f00800000000000000
+      internalID: 1117072233597805295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiMarcheVague 10001
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1493
+        width: 191
+        height: 202
+      alignment: 9
+      pivot: {x: 0.59345543, y: 0.554703}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccbe697a7017ba010800000000000000
+      internalID: 1201178003314764748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiMarcheVague 10002
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1493
+        width: 188
+        height: 202
+      alignment: 9
+      pivot: {x: 0.59760636, y: 0.554703}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab2acbfb0873b9f0800000000000000
+      internalID: -453887144569984088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiMarcheVague 10003
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1493
+        width: 185
+        height: 202
+      alignment: 9
+      pivot: {x: 0.59648645, y: 0.554703}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce1c7d69b05959e40800000000000000
+      internalID: 5662595983496167916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiMarcheVague 10004
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1493
+        width: 182
+        height: 202
+      alignment: 9
+      pivot: {x: 0.59532964, y: 0.554703}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da2ef41ed48ee2a0800000000000000
+      internalID: -6706276705738282282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiMarcheVague 10005
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 1491
+        width: 180
+        height: 204
+      alignment: 9
+      pivot: {x: 0.5963888, y: 0.5541667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb723d93d60a51c0800000000000000
+      internalID: -4514288170540303378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiMarcheVague 10006
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 1490
+        width: 176
+        height: 205
+      alignment: 9
+      pivot: {x: 0.59857947, y: 0.55634147}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5896ebf422c7868f0800000000000000
+      internalID: -547050867916904059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiMarcheVague 10007
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 1489
+        width: 173
+        height: 206
+      alignment: 9
+      pivot: {x: 0.5973988, y: 0.55849516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f92f74198280aa190800000000000000
+      internalID: -7950533221840063841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiMarcheVague 10008
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 1488
+        width: 170
+        height: 207
+      alignment: 9
+      pivot: {x: 0.59617645, y: 0.56062806}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e96c81f6bca18360800000000000000
+      internalID: 7170201983487076832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiMarcheVague 10009
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 1488
+        width: 166
+        height: 207
+      alignment: 9
+      pivot: {x: 0.59849393, y: 0.56062806}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8813e5cc028579b90800000000000000
+      internalID: -7235217378456489592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiMarcheVague 10010
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 1488
+        width: 163
+        height: 207
+      alignment: 9
+      pivot: {x: 0.5972392, y: 0.56062806}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9722dd158efb6bfb0800000000000000
+      internalID: -4632304162177211783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiMarcheVague 10011
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1275
+        width: 161
+        height: 208
+      alignment: 9
+      pivot: {x: 0.592236, y: 0.55793273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde0f2192a217ec00800000000000000
+      internalID: 929732337505079004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiMarcheVague 10012
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1275
+        width: 159
+        height: 208
+      alignment: 9
+      pivot: {x: 0.5871069, y: 0.55793273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad79cc472b222e60800000000000000
+      internalID: 7935952941172227488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiMarcheVague 10013
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1275
+        width: 159
+        height: 208
+      alignment: 9
+      pivot: {x: 0.5808176, y: 0.55793273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 727e828e38c8fc500800000000000000
+      internalID: 418707788532344615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiMarcheVague 10014
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 1275
+        width: 158
+        height: 208
+      alignment: 9
+      pivot: {x: 0.5781645, y: 0.55793273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d26c8aab1bdd670800000000000000
+      internalID: 8565197481582144917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiMarcheVague 10015
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1275
+        width: 157
+        height: 208
+      alignment: 9
+      pivot: {x: 0.57547766, y: 0.55793273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb3a254b5c2d525a0800000000000000
+      internalID: -6546594736737442884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiMarcheVague 10016
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1275
+        width: 157
+        height: 208
+      alignment: 9
+      pivot: {x: 0.57547766, y: 0.55793273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b6765c6999613d00800000000000000
+      internalID: 950657104020403892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiMarcheVague 10017
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 1274
+        width: 156
+        height: 209
+      alignment: 9
+      pivot: {x: 0.57275635, y: 0.55526316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4025637878edc3550800000000000000
+      internalID: 6142028665496949252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiMarcheVague 10018
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 1274
+        width: 156
+        height: 209
+      alignment: 9
+      pivot: {x: 0.57275635, y: 0.55526316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da41df8aedc27ddf0800000000000000
+      internalID: -155606327291472723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiMarcheVague 10019
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 1274
+        width: 156
+        height: 209
+      alignment: 9
+      pivot: {x: 0.57275635, y: 0.55526316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44706709b6581b380800000000000000
+      internalID: -8957231486831556796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiMarcheVague 10020
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 1274
+        width: 154
+        height: 209
+      alignment: 9
+      pivot: {x: 0.57370126, y: 0.55526316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 750ccc5818c785b60800000000000000
+      internalID: 7735069255746240599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiMarcheVague 10021
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 1274
+        width: 154
+        height: 209
+      alignment: 9
+      pivot: {x: 0.57370126, y: 0.55526316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 568e0d7d29f069b80800000000000000
+      internalID: -8388500132570535835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiMarcheVague 10022
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 1273
+        width: 153
+        height: 210
+      alignment: 9
+      pivot: {x: 0.57745093, y: 0.557381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f0ef1f2759331e0800000000000000
+      internalID: -2219265870444753028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiMarcheVague 10023
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1058
+        width: 152
+        height: 210
+      alignment: 9
+      pivot: {x: 0.58124995, y: 0.557381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08af4ec5f074ee60800000000000000
+      internalID: 7990635839892727823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiMarcheVague 10024
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1059
+        width: 151
+        height: 209
+      alignment: 9
+      pivot: {x: 0.5850993, y: 0.56004786}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486a99b7b282b1a90800000000000000
+      internalID: -7342230600275089788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiMarcheVague 10025
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1059
+        width: 151
+        height: 209
+      alignment: 9
+      pivot: {x: 0.5850993, y: 0.56004786}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7405f49dcab992b0800000000000000
+      internalID: -5577221271391501188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiMarcheVague 10026
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1059
+        width: 149
+        height: 209
+      alignment: 9
+      pivot: {x: 0.58624154, y: 0.56004786}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19412ee7104fab1e0800000000000000
+      internalID: -2181162782246693743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiMarcheVague 10027
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1059
+        width: 148
+        height: 209
+      alignment: 9
+      pivot: {x: 0.5902026, y: 0.56004786}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a99b13a63cc34b5b0800000000000000
+      internalID: -5353587247038744166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiMarcheVague 10028
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 1060
+        width: 148
+        height: 208
+      alignment: 9
+      pivot: {x: 0.5902026, y: 0.55793273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 681bb1d065dc5a360800000000000000
+      internalID: 7180370950382924166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiMarcheVague 10029
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 1060
+        width: 147
+        height: 208
+      alignment: 9
+      pivot: {x: 0.5942176, y: 0.55793273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbfa7bf21fb52c200800000000000000
+      internalID: 198822425003536319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiMarcheVague 10030
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 1062
+        width: 146
+        height: 206
+      alignment: 9
+      pivot: {x: 0.5982876, y: 0.55849516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb037b28305515e0800000000000000
+      internalID: -1939555862335779907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiMarcheVague 10031
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 1062
+        width: 147
+        height: 206
+      alignment: 9
+      pivot: {x: 0.5942176, y: 0.55849516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e41dc9de64c636d50800000000000000
+      internalID: 6729341320111640910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiMarcheVague 10032
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 1062
+        width: 148
+        height: 206
+      alignment: 9
+      pivot: {x: 0.5902026, y: 0.55849516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcebddaacac707cc0800000000000000
+      internalID: -3715332611537781045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiMarcheVague 10033
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 1062
+        width: 149
+        height: 206
+      alignment: 9
+      pivot: {x: 0.59295297, y: 0.55849516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3375a2d1d216e3d0800000000000000
+      internalID: -3177831794671783109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiMarcheVague 10034
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 1062
+        width: 150
+        height: 206
+      alignment: 9
+      pivot: {x: 0.5889999, y: 0.55849516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66e7c081758f9ad0800000000000000
+      internalID: -2693287329605884305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiMarcheVague 10035
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 1063
+        width: 150
+        height: 205
+      alignment: 9
+      pivot: {x: 0.5889999, y: 0.5612195}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c15b12d8d9a5a0b0800000000000000
+      internalID: -5717977403173940793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiMarcheVague 10036
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 848
+        width: 151
+        height: 205
+      alignment: 9
+      pivot: {x: 0.5850993, y: 0.5612195}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f56aafaec9abb60800000000000000
+      internalID: 7762689440767958862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiMarcheVague 10037
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 848
+        width: 151
+        height: 205
+      alignment: 9
+      pivot: {x: 0.5850993, y: 0.5612195}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 539ed0e6658fb3990800000000000000
+      internalID: -7405052112183367371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiMarcheVague 10038
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 848
+        width: 153
+        height: 205
+      alignment: 9
+      pivot: {x: 0.5839869, y: 0.5612195}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3134585d0b4c7e270800000000000000
+      internalID: 8279802703719514899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiMarcheVague 10039
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 848
+        width: 153
+        height: 205
+      alignment: 9
+      pivot: {x: 0.5839869, y: 0.5612195}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c71b85cbdbfac88d0800000000000000
+      internalID: -2842704035334016644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiMarcheVague 10040
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 849
+        width: 153
+        height: 204
+      alignment: 9
+      pivot: {x: 0.5839869, y: 0.5590686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4a26a94de0b1230800000000000000
+      internalID: 3610495832553596152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiMarcheVague 10041
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 848
+        width: 154
+        height: 205
+      alignment: 9
+      pivot: {x: 0.5801948, y: 0.5612195}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d73e9b94858bb6090800000000000000
+      internalID: -8040130020406336643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiMarcheVague 10042
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 847
+        width: 157
+        height: 206
+      alignment: 9
+      pivot: {x: 0.57547766, y: 0.56334955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8b88130c82103a0800000000000000
+      internalID: -6701029964620711703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiMarcheVague 10043
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 847
+        width: 159
+        height: 206
+      alignment: 9
+      pivot: {x: 0.5682389, y: 0.56334955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c35d8bc399520ad0800000000000000
+      internalID: -2737527132177738814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiMarcheVague 10044
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 847
+        width: 161
+        height: 206
+      alignment: 9
+      pivot: {x: 0.56118006, y: 0.56334955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7cfb3793feb51810800000000000000
+      internalID: 1735503184844815487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiMarcheVague 10045
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 848
+        width: 163
+        height: 205
+      alignment: 9
+      pivot: {x: 0.5542944, y: 0.5612195}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b463262015db811c0800000000000000
+      internalID: -4532664869318412725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiMarcheVague 10046
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 847
+        width: 166
+        height: 206
+      alignment: 9
+      pivot: {x: 0.55030113, y: 0.55849516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8502597dcffba6f80800000000000000
+      internalID: -8112460686084988840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiMarcheVague 10047
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 848
+        width: 167
+        height: 205
+      alignment: 9
+      pivot: {x: 0.54700595, y: 0.55634147}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa9a426a3b3b5030800000000000000
+      internalID: 3484443858644409087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiMarcheVague 10048
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 639
+        width: 169
+        height: 203
+      alignment: 9
+      pivot: {x: 0.54053247, y: 0.5519705}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90ec931c31dd1dc0800000000000000
+      internalID: -3666544465652424547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiMarcheVague 10049
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 640
+        width: 170
+        height: 202
+      alignment: 9
+      pivot: {x: 0.53735286, y: 0.5497525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ed932cc64d39750800000000000000
+      internalID: 6310621066456325705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiMarcheVague 10050
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 642
+        width: 172
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5311046, y: 0.54525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a3e7148cc9a6250800000000000000
+      internalID: 5938731442547604031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiMarcheVague 10051
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 641
+        width: 174
+        height: 201
+      alignment: 9
+      pivot: {x: 0.53074706, y: 0.54253733}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3400c3dce5a820e0800000000000000
+      internalID: -2294401573561826244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiMarcheVague 10052
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 641
+        width: 177
+        height: 201
+      alignment: 9
+      pivot: {x: 0.5387005, y: 0.54253733}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9fd7dd1a45ed11c0800000000000000
+      internalID: -4531213543573823588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiMarcheVague 10053
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 640
+        width: 180
+        height: 202
+      alignment: 9
+      pivot: {x: 0.5408333, y: 0.544802}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac46d91571fbd210800000000000000
+      internalID: 1358945197829278880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiMarcheVague 10054
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 641
+        width: 183
+        height: 201
+      alignment: 9
+      pivot: {x: 0.5483606, y: 0.54253733}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 961bbab0082469c80800000000000000
+      internalID: -8316386544173993623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiMarcheVague 10055
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 641
+        width: 186
+        height: 201
+      alignment: 9
+      pivot: {x: 0.55026877, y: 0.54253733}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a50f86067ec751070800000000000000
+      internalID: 8076498839955632218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiMarcheVague 10056
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 641
+        width: 188
+        height: 201
+      alignment: 9
+      pivot: {x: 0.5550531, y: 0.54253733}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f710a9ee2125682b0800000000000000
+      internalID: -5582684446813191809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiMarcheVague 10057
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 640
+        width: 191
+        height: 202
+      alignment: 9
+      pivot: {x: 0.5568062, y: 0.5398515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4615d042a82614f30800000000000000
+      internalID: 4558032643325514084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiMarcheVague 10058
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 640
+        width: 193
+        height: 202
+      alignment: 9
+      pivot: {x: 0.5613989, y: 0.5398515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c4fe87060d65940800000000000000
+      internalID: 5284640325530242153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiMarcheVague 10059
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 433
+        width: 195
+        height: 201
+      alignment: 9
+      pivot: {x: 0.5658974, y: 0.5375622}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68de009a533713890800000000000000
+      internalID: -7480070831779811962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiMarcheVague 10060
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 434
+        width: 196
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5681122, y: 0.53525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb827b0f89825140800000000000000
+      internalID: 4706975808020974512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiMarcheVague 10061
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 434
+        width: 195
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5710256, y: 0.53525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d315957c5aca7fb0800000000000000
+      internalID: -4649181166848109607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiMarcheVague 10062
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 434
+        width: 194
+        height: 200
+      alignment: 9
+      pivot: {x: 0.573969, y: 0.53525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff66e14513155e5c0800000000000000
+      internalID: -4186851006264482049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiMarcheVague 10063
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 434
+        width: 191
+        height: 200
+      alignment: 9
+      pivot: {x: 0.57774866, y: 0.53525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da63780706a2eba0800000000000000
+      internalID: -6061099599350502696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiMarcheVague 10064
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 435
+        width: 190
+        height: 199
+      alignment: 9
+      pivot: {x: 0.58078945, y: 0.5379397}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d612347a4267cee60800000000000000
+      internalID: 7992893338472882541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiMarcheVague 10065
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 435
+        width: 189
+        height: 199
+      alignment: 9
+      pivot: {x: 0.58386236, y: 0.5379397}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ae744c6da7003300800000000000000
+      internalID: 229692022423060136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiMarcheVague 10066
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 435
+        width: 187
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5901069, y: 0.5379397}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa627231adb001be0800000000000000
+      internalID: -1508692843917007185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiMarcheVague 10067
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 436
+        width: 185
+        height: 198
+      alignment: 9
+      pivot: {x: 0.591081, y: 0.5356061}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 224d00aee710d2260800000000000000
+      internalID: 7074312234272347170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiMarcheVague 10068
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 436
+        width: 183
+        height: 198
+      alignment: 9
+      pivot: {x: 0.5975409, y: 0.5356061}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c60b3a25cea1a50800000000000000
+      internalID: 6492761652485712988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiMarcheVague 10069
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 231
+        width: 182
+        height: 197
+      alignment: 9
+      pivot: {x: 0.6008241, y: 0.5332487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c18eb38ee6c986d0800000000000000
+      internalID: -2987638150068796988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiMarcheVague 10070
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 233
+        width: 179
+        height: 195
+      alignment: 9
+      pivot: {x: 0.6053072, y: 0.5335898}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b308d9f28d8fdf0800000000000000
+      internalID: -146129288872051880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiMarcheVague 10071
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 231
+        width: 181
+        height: 197
+      alignment: 9
+      pivot: {x: 0.6041436, y: 0.5383249}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0422b433fbfe6880800000000000000
+      internalID: -8615672015133465587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiMarcheVague 10072
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 230
+        width: 184
+        height: 198
+      alignment: 9
+      pivot: {x: 0.605163, y: 0.54065657}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 432740e774391b2c0800000000000000
+      internalID: -4417587824207564236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiMarcheVague 10073
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 230
+        width: 185
+        height: 198
+      alignment: 9
+      pivot: {x: 0.6018918, y: 0.54065657}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e2dcdcf619cda430800000000000000
+      internalID: 3795911161511989987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiMarcheVague 10074
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 229
+        width: 187
+        height: 199
+      alignment: 9
+      pivot: {x: 0.60080206, y: 0.5429648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88edcf3cf07fd1ce0800000000000000
+      internalID: -1432717459349250424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiMarcheVague 10075
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 229
+        width: 189
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5997354, y: 0.54798996}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2365a6f453204d20800000000000000
+      internalID: 3260644978038498093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiMarcheVague 10076
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 228
+        width: 191
+        height: 200
+      alignment: 9
+      pivot: {x: 0.59869105, y: 0.55025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e63cc44909e6530800000000000000
+      internalID: 3850173698065788477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiMarcheVague 10077
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 228
+        width: 193
+        height: 200
+      alignment: 9
+      pivot: {x: 0.59766835, y: 0.55025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2feb600ccdfffe60800000000000000
+      internalID: 7998390515855519535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiMarcheVague 10078
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 227
+        width: 195
+        height: 201
+      alignment: 9
+      pivot: {x: 0.59666663, y: 0.55248755}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0487f52257f25430800000000000000
+      internalID: 3770347770258883596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiMarcheVague 10079
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 20
+        width: 196
+        height: 202
+      alignment: 9
+      pivot: {x: 0.5936224, y: 0.554703}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa61a991c54e291e0800000000000000
+      internalID: -2192438984358357329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiMarcheVague 10080
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 20
+        width: 196
+        height: 202
+      alignment: 9
+      pivot: {x: 0.5936224, y: 0.554703}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0017365edd410d7c0800000000000000
+      internalID: -4048713121737248512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Occurrence ennemiMarcheVague 10022: -2219265870444753028
+      Occurrence ennemiMarcheVague 10035: -5717977403173940793
+      Occurrence ennemiMarcheVague 10037: -7405052112183367371
+      Occurrence ennemiMarcheVague 10023: 7990635839892727823
+      Occurrence ennemiMarcheVague 10006: -547050867916904059
+      Occurrence ennemiMarcheVague 10009: -7235217378456489592
+      Occurrence ennemiMarcheVague 10053: 1358945197829278880
+      Occurrence ennemiMarcheVague 10014: 8565197481582144917
+      Occurrence ennemiMarcheVague 10032: -3715332611537781045
+      Occurrence ennemiMarcheVague 10071: -8615672015133465587
+      Occurrence ennemiMarcheVague 10055: 8076498839955632218
+      Occurrence ennemiMarcheVague 10011: 929732337505079004
+      Occurrence ennemiMarcheVague 10013: 418707788532344615
+      Occurrence ennemiMarcheVague 10030: -1939555862335779907
+      Occurrence ennemiMarcheVague 10000: 1117072233597805295
+      Occurrence ennemiMarcheVague 10016: 950657104020403892
+      Occurrence ennemiMarcheVague 10024: -7342230600275089788
+      Occurrence ennemiMarcheVague 10041: -8040130020406336643
+      Occurrence ennemiMarcheVague 10015: -6546594736737442884
+      Occurrence ennemiMarcheVague 10029: 198822425003536319
+      Occurrence ennemiMarcheVague 10001: 1201178003314764748
+      Occurrence ennemiMarcheVague 10017: 6142028665496949252
+      Occurrence ennemiMarcheVague 10026: -2181162782246693743
+      Occurrence ennemiMarcheVague 10028: 7180370950382924166
+      Occurrence ennemiMarcheVague 10019: -8957231486831556796
+      Occurrence ennemiMarcheVague 10039: -2842704035334016644
+      Occurrence ennemiMarcheVague 10038: 8279802703719514899
+      Occurrence ennemiMarcheVague 10064: 7992893338472882541
+      Occurrence ennemiMarcheVague 10031: 6729341320111640910
+      Occurrence ennemiMarcheVague 10068: 6492761652485712988
+      Occurrence ennemiMarcheVague 10033: -3177831794671783109
+      Occurrence ennemiMarcheVague 10059: -7480070831779811962
+      Occurrence ennemiMarcheVague 10069: -2987638150068796988
+      Occurrence ennemiMarcheVague 10027: -5353587247038744166
+      Occurrence ennemiMarcheVague 10062: -4186851006264482049
+      Occurrence ennemiMarcheVague 10048: -3666544465652424547
+      Occurrence ennemiMarcheVague 10012: 7935952941172227488
+      Occurrence ennemiMarcheVague 10079: -2192438984358357329
+      Occurrence ennemiMarcheVague 10075: 3260644978038498093
+      Occurrence ennemiMarcheVague 10060: 4706975808020974512
+      Occurrence ennemiMarcheVague 10003: 5662595983496167916
+      Occurrence ennemiMarcheVague 10010: -4632304162177211783
+      Occurrence ennemiMarcheVague 10025: -5577221271391501188
+      Occurrence ennemiMarcheVague 10046: -8112460686084988840
+      Occurrence ennemiMarcheVague 10051: -2294401573561826244
+      Occurrence ennemiMarcheVague 10034: -2693287329605884305
+      Occurrence ennemiMarcheVague 10036: 7762689440767958862
+      Occurrence ennemiMarcheVague 10021: -8388500132570535835
+      Occurrence ennemiMarcheVague 10042: -6701029964620711703
+      Occurrence ennemiMarcheVague 10040: 3610495832553596152
+      Occurrence ennemiMarcheVague 10056: -5582684446813191809
+      Occurrence ennemiMarcheVague 10008: 7170201983487076832
+      Occurrence ennemiMarcheVague 10078: 3770347770258883596
+      Occurrence ennemiMarcheVague 10080: -4048713121737248512
+      Occurrence ennemiMarcheVague 10049: 6310621066456325705
+      Occurrence ennemiMarcheVague 10052: -4531213543573823588
+      Occurrence ennemiMarcheVague 10004: -6706276705738282282
+      Occurrence ennemiMarcheVague 10005: -4514288170540303378
+      Occurrence ennemiMarcheVague 10066: -1508692843917007185
+      Occurrence ennemiMarcheVague 10002: -453887144569984088
+      Occurrence ennemiMarcheVague 10018: -155606327291472723
+      Occurrence ennemiMarcheVague 10067: 7074312234272347170
+      Occurrence ennemiMarcheVague 10054: -8316386544173993623
+      Occurrence ennemiMarcheVague 10076: 3850173698065788477
+      Occurrence ennemiMarcheVague 10044: 1735503184844815487
+      Occurrence ennemiMarcheVague 10057: 4558032643325514084
+      Occurrence ennemiMarcheVague 10073: 3795911161511989987
+      Occurrence ennemiMarcheVague 10070: -146129288872051880
+      Occurrence ennemiMarcheVague 10050: 5938731442547604031
+      Occurrence ennemiMarcheVague 10061: -4649181166848109607
+      Occurrence ennemiMarcheVague 10047: 3484443858644409087
+      Occurrence ennemiMarcheVague 10074: -1432717459349250424
+      Occurrence ennemiMarcheVague 10077: 7998390515855519535
+      Occurrence ennemiMarcheVague 10020: 7735069255746240599
+      Occurrence ennemiMarcheVague 10045: -4532664869318412725
+      Occurrence ennemiMarcheVague 10072: -4417587824207564236
+      Occurrence ennemiMarcheVague 10063: -6061099599350502696
+      Occurrence ennemiMarcheVague 10007: -7950533221840063841
+      Occurrence ennemiMarcheVague 10043: -2737527132177738814
+      Occurrence ennemiMarcheVague 10065: 229692022423060136
+      Occurrence ennemiMarcheVague 10058: 5284640325530242153
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

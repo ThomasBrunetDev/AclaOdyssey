@@ -1,0 +1,1204 @@
+fileFormatVersion: 2
+guid: 776ba70c9c687314385ce62d9fbe0279
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Occurrence ennemiDisparait 10000
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 721
+        width: 209
+        height: 199
+      alignment: 9
+      pivot: {x: 0.488756, y: 0.5427136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0429a71511c4d330800000000000000
+      internalID: 3734822287332418575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiDisparait 10001
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 710
+        width: 203
+        height: 210
+      alignment: 9
+      pivot: {x: 0.47857144, y: 0.5904762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2a6c3be58acbd30800000000000000
+      internalID: 4448615656631739119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiDisparait 10002
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 706
+        width: 197
+        height: 214
+      alignment: 9
+      pivot: {x: 0.4677665, y: 0.6214953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 143e405fc82782fb0800000000000000
+      internalID: -4672358663665163455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiDisparait 10003
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 709
+        width: 191
+        height: 211
+      alignment: 9
+      pivot: {x: 0.45628273, y: 0.63981044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b83254cb8cda50a0800000000000000
+      internalID: -6891953786884835150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiDisparait 10004
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 720
+        width: 185
+        height: 200
+      alignment: 9
+      pivot: {x: 0.44405407, y: 0.645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a18ca3b9ea61b80800000000000000
+      internalID: -8424354071220577715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiDisparait 10005
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 736
+        width: 178
+        height: 184
+      alignment: 9
+      pivot: {x: 0.427809, y: 0.6413044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e77174f8e4fae59b0800000000000000
+      internalID: -5089437776935970946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiDisparait 10006
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 736
+        width: 172
+        height: 184
+      alignment: 9
+      pivot: {x: 0.4136628, y: 0.66847825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c23956aa9f94900800000000000000
+      internalID: 669340529885129873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiDisparait 10007
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 736
+        width: 174
+        height: 184
+      alignment: 9
+      pivot: {x: 0.42614943, y: 0.66847825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28916fbbf28eb7f80800000000000000
+      internalID: -8107631412435871358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiDisparait 10008
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 737
+        width: 175
+        height: 183
+      alignment: 9
+      pivot: {x: 0.44085714, y: 0.6666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b27693d1b6a8e10800000000000000
+      internalID: 2200689141185194877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiDisparait 10009
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 737
+        width: 176
+        height: 183
+      alignment: 9
+      pivot: {x: 0.45539773, y: 0.6666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f20fdc9173202470800000000000000
+      internalID: 8367727078524519153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiDisparait 10010
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 519
+        width: 176
+        height: 182
+      alignment: 9
+      pivot: {x: 0.46676138, y: 0.66483516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef4e7d2d3999b42c0800000000000000
+      internalID: -4446291346921626370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiDisparait 10011
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 519
+        width: 177
+        height: 182
+      alignment: 9
+      pivot: {x: 0.48107347, y: 0.66483516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f9622b8bcbc00520800000000000000
+      internalID: 2666355054476421622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiDisparait 10012
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 520
+        width: 178
+        height: 181
+      alignment: 9
+      pivot: {x: 0.4952247, y: 0.6629834}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b83a71441169960800000000000000
+      internalID: 7608287604641073976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiDisparait 10013
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 521
+        width: 179
+        height: 180
+      alignment: 9
+      pivot: {x: 0.50921786, y: 0.6611111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b26d466ab70bd00800000000000000
+      internalID: 986424272980683660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiDisparait 10014
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 523
+        width: 179
+        height: 178
+      alignment: 9
+      pivot: {x: 0.52039105, y: 0.6573034}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516d0e250ff5cfb50800000000000000
+      internalID: 6628278237369783829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiDisparait 10015
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 520
+        width: 178
+        height: 181
+      alignment: 9
+      pivot: {x: 0.4952247, y: 0.6629834}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b6c4c22a448852f0800000000000000
+      internalID: -983891064634685774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiDisparait 10016
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 519
+        width: 177
+        height: 182
+      alignment: 9
+      pivot: {x: 0.4641243, y: 0.66483516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11cd2def54c908330800000000000000
+      internalID: 3711137917395196945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiDisparait 10017
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 518
+        width: 175
+        height: 183
+      alignment: 9
+      pivot: {x: 0.44085714, y: 0.6666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b704c72ee4bb8d30800000000000000
+      internalID: 4434837193038759857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiDisparait 10018
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 518
+        width: 173
+        height: 183
+      alignment: 9
+      pivot: {x: 0.4112717, y: 0.6666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f94bc312761dcde0800000000000000
+      internalID: -1311367237280773641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiDisparait 10019
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 519
+        width: 169
+        height: 182
+      alignment: 9
+      pivot: {x: 0.3795858, y: 0.66483516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9bbd195407b650f0800000000000000
+      internalID: -1128513427306857571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiDisparait 10020
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 520
+        width: 170
+        height: 181
+      alignment: 9
+      pivot: {x: 0.35382354, y: 0.6629834}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c84385675f6f32e50800000000000000
+      internalID: 6783536997863011468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiDisparait 10021
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 333
+        width: 170
+        height: 180
+      alignment: 9
+      pivot: {x: 0.32441178, y: 0.6611111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41d5aed492664cc0800000000000000
+      internalID: -3727183250072415921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiDisparait 10022
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 332
+        width: 171
+        height: 181
+      alignment: 9
+      pivot: {x: 0.34590644, y: 0.6629834}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43aae683f428d26c0800000000000000
+      internalID: -4166530803487036876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiDisparait 10023
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 330
+        width: 173
+        height: 183
+      alignment: 9
+      pivot: {x: 0.37080926, y: 0.6666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2430cf403cea50b10800000000000000
+      internalID: 1947154566533088066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiDisparait 10024
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 329
+        width: 176
+        height: 184
+      alignment: 9
+      pivot: {x: 0.39857957, y: 0.66847825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b052b7440276100800000000000000
+      internalID: 101084995135015761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiDisparait 10025
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 329
+        width: 180
+        height: 184
+      alignment: 9
+      pivot: {x: 0.42305556, y: 0.66847825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c1b115223d54a10800000000000000
+      internalID: 1893151362722241607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiDisparait 10026
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 330
+        width: 184
+        height: 183
+      alignment: 9
+      pivot: {x: 0.44103262, y: 0.6666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b9c306bff098550800000000000000
+      internalID: 6163475137359027010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiDisparait 10027
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 332
+        width: 187
+        height: 181
+      alignment: 9
+      pivot: {x: 0.4660428, y: 0.6629834}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c020eface20ecb6a0800000000000000
+      internalID: -6432019676213149172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiDisparait 10028
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 334
+        width: 190
+        height: 179
+      alignment: 9
+      pivot: {x: 0.485, y: 0.6592179}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6730d331ddd458d00800000000000000
+      internalID: 974270506301457270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiDisparait 10029
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 337
+        width: 194
+        height: 176
+      alignment: 9
+      pivot: {x: 0.50592786, y: 0.65340906}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06902a508010d2cf0800000000000000
+      internalID: -275562868233860768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiDisparait 10030
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 339
+        width: 186
+        height: 174
+      alignment: 9
+      pivot: {x: 0.4201613, y: 0.6896552}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c94b76ce8f015d1e0800000000000000
+      internalID: -2173812583832243044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiDisparait 10031
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 152
+        width: 184
+        height: 172
+      alignment: 9
+      pivot: {x: 0.3214674, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e67a2d2e4aac182f0800000000000000
+      internalID: -972273235006412946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiDisparait 10032
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 158
+        width: 184
+        height: 166
+      alignment: 9
+      pivot: {x: 0.2290761, y: 0.82530123}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc2f553c57a820e0800000000000000
+      internalID: -2294399995671008061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiDisparait 10033
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 170
+        width: 200
+        height: 154
+      alignment: 9
+      pivot: {x: 0.20075001, y: 0.9220779}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c3ada99ee19cf30800000000000000
+      internalID: 4596238883382508583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiDisparait 10034
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 177
+        width: 212
+        height: 147
+      alignment: 9
+      pivot: {x: 0.18466982, y: 0.97959185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa00b3a5e680f8f00800000000000000
+      internalID: 1121124102291783850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiDisparait 10035
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 189
+        width: 219
+        height: 135
+      alignment: 9
+      pivot: {x: 0.18333334, y: 1.0592593}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a8421c1d37ae82b0800000000000000
+      internalID: -5580339007359661915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiDisparait 10036
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 191
+        width: 222
+        height: 133
+      alignment: 9
+      pivot: {x: 0.18536037, y: 1.1353383}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2c1c4cbdeaf1550800000000000000
+      internalID: 6133813476424008446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiDisparait 10037
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 191
+        width: 222
+        height: 133
+      alignment: 9
+      pivot: {x: 0.18536037, y: 1.1353383}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca38f658f22563920800000000000000
+      internalID: 2969651368353039276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiDisparait 10038
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 191
+        width: 222
+        height: 133
+      alignment: 9
+      pivot: {x: 0.18536037, y: 1.1353383}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a93e2ce51c8fb10800000000000000
+      internalID: 2015573445989079606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiDisparait 10039
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 191
+        width: 222
+        height: 133
+      alignment: 9
+      pivot: {x: 0.18536037, y: 1.1353383}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c537b5dc88db7a090800000000000000
+      internalID: -8023235815878724772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiDisparait 10040
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 191
+        width: 222
+        height: 133
+      alignment: 9
+      pivot: {x: 0.18536037, y: 1.1353383}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 223067aad35968a70800000000000000
+      internalID: 8828908211591840546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiDisparait 10041
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 191
+        width: 222
+        height: 133
+      alignment: 9
+      pivot: {x: 0.18536037, y: 1.1353383}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e3720ebb61fc2910800000000000000
+      internalID: 1814090194975093734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiDisparait 10042
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 191
+        width: 222
+        height: 133
+      alignment: 9
+      pivot: {x: 0.18536037, y: 1.1353383}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d72c98cabf07c20800000000000000
+      internalID: 3202336053524594020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiDisparait 10043
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 191
+        width: 222
+        height: 133
+      alignment: 9
+      pivot: {x: 0.18536037, y: 1.1353383}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d0fa9d640ad96b0800000000000000
+      internalID: -5287894161302811354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiDisparait 10044
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 14
+        width: 222
+        height: 133
+      alignment: 9
+      pivot: {x: 0.18536037, y: 1.1353383}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a489ee804e2050f60800000000000000
+      internalID: 7999803491519207498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiDisparait 10045
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 14
+        width: 222
+        height: 133
+      alignment: 9
+      pivot: {x: 0.18536037, y: 1.1353383}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82574e81c46da110800000000000000
+      internalID: 1273785052094222987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiDisparait 10046
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 14
+        width: 222
+        height: 133
+      alignment: 9
+      pivot: {x: 0.18536037, y: 1.1353383}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d98870b047a4c6270800000000000000
+      internalID: 8245046880070240413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence ennemiDisparait 10047
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 14
+        width: 222
+        height: 133
+      alignment: 9
+      pivot: {x: 0.18536037, y: 1.1353383}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f231c52157b9fb0800000000000000
+      internalID: -4639986269360541901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Occurrence ennemiDisparait 10039: -8023235815878724772
+      Occurrence ennemiDisparait 10004: -8424354071220577715
+      Occurrence ennemiDisparait 10009: 8367727078524519153
+      Occurrence ennemiDisparait 10023: 1947154566533088066
+      Occurrence ennemiDisparait 10025: 1893151362722241607
+      Occurrence ennemiDisparait 10024: 101084995135015761
+      Occurrence ennemiDisparait 10017: 4434837193038759857
+      Occurrence ennemiDisparait 10019: -1128513427306857571
+      Occurrence ennemiDisparait 10018: -1311367237280773641
+      Occurrence ennemiDisparait 10006: 669340529885129873
+      Occurrence ennemiDisparait 10008: 2200689141185194877
+      Occurrence ennemiDisparait 10032: -2294399995671008061
+      Occurrence ennemiDisparait 10038: 2015573445989079606
+      Occurrence ennemiDisparait 10046: 8245046880070240413
+      Occurrence ennemiDisparait 10034: 1121124102291783850
+      Occurrence ennemiDisparait 10031: -972273235006412946
+      Occurrence ennemiDisparait 10042: 3202336053524594020
+      Occurrence ennemiDisparait 10028: 974270506301457270
+      Occurrence ennemiDisparait 10001: 4448615656631739119
+      Occurrence ennemiDisparait 10020: 6783536997863011468
+      Occurrence ennemiDisparait 10044: 7999803491519207498
+      Occurrence ennemiDisparait 10011: 2666355054476421622
+      Occurrence ennemiDisparait 10013: 986424272980683660
+      Occurrence ennemiDisparait 10005: -5089437776935970946
+      Occurrence ennemiDisparait 10037: 2969651368353039276
+      Occurrence ennemiDisparait 10010: -4446291346921626370
+      Occurrence ennemiDisparait 10043: -5287894161302811354
+      Occurrence ennemiDisparait 10014: 6628278237369783829
+      Occurrence ennemiDisparait 10027: -6432019676213149172
+      Occurrence ennemiDisparait 10000: 3734822287332418575
+      Occurrence ennemiDisparait 10012: 7608287604641073976
+      Occurrence ennemiDisparait 10033: 4596238883382508583
+      Occurrence ennemiDisparait 10007: -8107631412435871358
+      Occurrence ennemiDisparait 10002: -4672358663665163455
+      Occurrence ennemiDisparait 10015: -983891064634685774
+      Occurrence ennemiDisparait 10036: 6133813476424008446
+      Occurrence ennemiDisparait 10045: 1273785052094222987
+      Occurrence ennemiDisparait 10016: 3711137917395196945
+      Occurrence ennemiDisparait 10003: -6891953786884835150
+      Occurrence ennemiDisparait 10026: 6163475137359027010
+      Occurrence ennemiDisparait 10021: -3727183250072415921
+      Occurrence ennemiDisparait 10040: 8828908211591840546
+      Occurrence ennemiDisparait 10030: -2173812583832243044
+      Occurrence ennemiDisparait 10047: -4639986269360541901
+      Occurrence ennemiDisparait 10035: -5580339007359661915
+      Occurrence ennemiDisparait 10041: 1814090194975093734
+      Occurrence ennemiDisparait 10022: -4166530803487036876
+      Occurrence ennemiDisparait 10029: -275562868233860768
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

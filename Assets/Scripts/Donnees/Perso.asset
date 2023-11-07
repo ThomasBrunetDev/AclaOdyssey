@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 202bfcc3c5f960a41b787414f9255a8c, type: 3}
+  m_Name: Perso
+  m_EditorClassIdentifier: 
+  _niveau: 1
+  _lumiere: 0
+  _cristal: 0
+  _vie: 100
+  _forceSaut: 150
+  _vitesse: 6
+  _score: 0
+  _nbAchat: 0
+  _sonAtterissage: {fileID: 8300000, guid: 3468e3f6da0f0274884f00cdbf44687d, type: 3}
+  _sonSaut: {fileID: 8300000, guid: 4bdb983304cf8644389410c94ad91551, type: 3}
+  _sonBlesse: {fileID: 8300000, guid: 3cb604086b3cb144c93029083446860b, type: 3}
+  _ameliorationVitesse: 0
+  _ameliorationSaut: 0
+  _manaMax: 100
+  _manaRegeneration: 10
+  _manaRegenerationDelai: 2
+  _coutManaBouclier: 2
+  _manaPresente: 100
+  _sonAttaque: {fileID: 8300000, guid: b533e56b96df28448a3eeeeb9f96bcd0, type: 3}
+  _estAcheteMap: 0
+  _estAcheteBulle: 0

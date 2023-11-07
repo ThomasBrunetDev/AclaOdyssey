@@ -1,0 +1,874 @@
+fileFormatVersion: 2
+guid: bc9c246d004388244ab7f7608d11810e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Occurrence Course_avec_vague_anim 10000
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1788
+        width: 150
+        height: 256
+      alignment: 9
+      pivot: {x: 0.49600002, y: 0.5097656}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e3776ed7e217220800000000000000
+      internalID: 2481815987930218120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Course_avec_vague_anim 10001
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1785
+        width: 150
+        height: 259
+      alignment: 9
+      pivot: {x: 0.49600002, y: 0.507722}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a817d6d941b1350800000000000000
+      internalID: 5988402795897784931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Course_avec_vague_anim 10002
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1785
+        width: 150
+        height: 259
+      alignment: 9
+      pivot: {x: 0.49600002, y: 0.503861}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc96bc132f0dff00800000000000000
+      internalID: 1152093723156716723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Course_avec_vague_anim 10003
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1785
+        width: 150
+        height: 259
+      alignment: 9
+      pivot: {x: 0.49600002, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c69543dd55b36a0800000000000000
+      internalID: -6468482031233176470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Course_avec_vague_anim 10004
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1787
+        width: 149
+        height: 257
+      alignment: 9
+      pivot: {x: 0.49932888, y: 0.4922179}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc44dacfacf1a610800000000000000
+      internalID: 1630862372037217456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Course_avec_vague_anim 10005
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 1787
+        width: 149
+        height: 257
+      alignment: 9
+      pivot: {x: 0.49932888, y: 0.4844358}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 706fae3ed57e3f080800000000000000
+      internalID: -9154719227072285177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Course_avec_vague_anim 10006
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 1788
+        width: 149
+        height: 256
+      alignment: 9
+      pivot: {x: 0.49932888, y: 0.47851562}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eda0357603820380800000000000000
+      internalID: -9006492241028403735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Course_avec_vague_anim 10007
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 1789
+        width: 149
+        height: 255
+      alignment: 9
+      pivot: {x: 0.49932888, y: 0.47254902}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e15550cda7261f20800000000000000
+      internalID: 3392942996479889896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Course_avec_vague_anim 10008
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 1791
+        width: 149
+        height: 253
+      alignment: 9
+      pivot: {x: 0.49932888, y: 0.46442688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f9b65097bcdc730800000000000000
+      internalID: 4021093762954141564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Course_avec_vague_anim 10009
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 1794
+        width: 149
+        height: 250
+      alignment: 9
+      pivot: {x: 0.49932888, y: 0.462}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86072ce5d8968d990800000000000000
+      internalID: -7361017535035969432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Course_avec_vague_anim 10010
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 1794
+        width: 149
+        height: 250
+      alignment: 9
+      pivot: {x: 0.49932888, y: 0.466}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c7f63fdcc6067db0800000000000000
+      internalID: -4794637276301297720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Course_avec_vague_anim 10011
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 1794
+        width: 149
+        height: 250
+      alignment: 9
+      pivot: {x: 0.49932888, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2732b776d2e6b86b0800000000000000
+      internalID: -5293015795755179150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Course_avec_vague_anim 10012
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 1795
+        width: 149
+        height: 249
+      alignment: 9
+      pivot: {x: 0.49932888, y: 0.4759036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371d6455bbc15ca40800000000000000
+      internalID: 5387744120133833075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Course_avec_vague_anim 10013
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1529
+        width: 149
+        height: 252
+      alignment: 9
+      pivot: {x: 0.49932888, y: 0.4861111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f10128171f037000800000000000000
+      internalID: 32386214185206258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Course_avec_vague_anim 10014
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1527
+        width: 149
+        height: 254
+      alignment: 9
+      pivot: {x: 0.49932888, y: 0.4940945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8115ef1b7182b80e0800000000000000
+      internalID: -2266673905215319784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Course_avec_vague_anim 10015
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1527
+        width: 149
+        height: 254
+      alignment: 9
+      pivot: {x: 0.49932888, y: 0.5019685}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9daf292b44f870dd0800000000000000
+      internalID: -2519887941273978151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Course_avec_vague_anim 10016
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1528
+        width: 149
+        height: 253
+      alignment: 9
+      pivot: {x: 0.49932888, y: 0.50395256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d740982a4ed22f740800000000000000
+      internalID: 5184256581059544189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Course_avec_vague_anim 10017
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1526
+        width: 149
+        height: 255
+      alignment: 9
+      pivot: {x: 0.49932888, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e1effa99d20aeb0800000000000000
+      internalID: -4710715072123625928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Course_avec_vague_anim 10018
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1526
+        width: 149
+        height: 255
+      alignment: 9
+      pivot: {x: 0.49932888, y: 0.49607843}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f478ea1fd21bb22a0800000000000000
+      internalID: -6761115604680276145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Course_avec_vague_anim 10019
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 1527
+        width: 149
+        height: 254
+      alignment: 9
+      pivot: {x: 0.49932888, y: 0.49015749}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ad5d2db13476830800000000000000
+      internalID: 4064290975505570463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Course_avec_vague_anim 10020
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 1527
+        width: 149
+        height: 254
+      alignment: 9
+      pivot: {x: 0.49932888, y: 0.48622048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1100ff69075225e10800000000000000
+      internalID: 2184849934727970833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Course_avec_vague_anim 10021
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 1528
+        width: 149
+        height: 253
+      alignment: 9
+      pivot: {x: 0.49932888, y: 0.48023716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe8404556450c690800000000000000
+      internalID: -7583968978313900289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Course_avec_vague_anim 10022
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 1527
+        width: 149
+        height: 254
+      alignment: 9
+      pivot: {x: 0.49932888, y: 0.47440946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a029c9961345c700800000000000000
+      internalID: 559927493025931433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Course_avec_vague_anim 10023
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 1528
+        width: 149
+        height: 253
+      alignment: 9
+      pivot: {x: 0.49932888, y: 0.46837944}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0baae956c71a2ba0800000000000000
+      internalID: -6113047403522512116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Course_avec_vague_anim 10024
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 1530
+        width: 149
+        height: 251
+      alignment: 9
+      pivot: {x: 0.49932888, y: 0.46015936}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2fe0a8e9ddfac220800000000000000
+      internalID: 2507095254937693999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Course_avec_vague_anim 10025
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 1532
+        width: 149
+        height: 249
+      alignment: 9
+      pivot: {x: 0.49932888, y: 0.45983934}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d374301b11e0a6eb0800000000000000
+      internalID: -4725949389824899267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Course_avec_vague_anim 10026
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1273
+        width: 149
+        height: 249
+      alignment: 9
+      pivot: {x: 0.49932888, y: 0.46385542}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f6adfe633bacfc0800000000000000
+      internalID: -3473767114029240459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Course_avec_vague_anim 10027
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1272
+        width: 149
+        height: 250
+      alignment: 9
+      pivot: {x: 0.49932888, y: 0.474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee65a3e6cf1149e0800000000000000
+      internalID: -1638993850302894367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Course_avec_vague_anim 10028
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1270
+        width: 149
+        height: 252
+      alignment: 9
+      pivot: {x: 0.49932888, y: 0.48214287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62aeb30a7d4efe520800000000000000
+      internalID: 2733655113594563110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Course_avec_vague_anim 10029
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1268
+        width: 149
+        height: 254
+      alignment: 9
+      pivot: {x: 0.49932888, y: 0.49015749}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3308d6ad49c213c40800000000000000
+      internalID: 5490218438572736563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Course_avec_vague_anim 10030
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1267
+        width: 149
+        height: 255
+      alignment: 9
+      pivot: {x: 0.49932888, y: 0.49607843}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be5217aeb45f81bd0800000000000000
+      internalID: -2659105873557641749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Course_avec_vague_anim 10031
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1267
+        width: 149
+        height: 255
+      alignment: 9
+      pivot: {x: 0.49932888, y: 0.50392157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159c7b9c08c21fe10800000000000000
+      internalID: 2229612222176807249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Course_avec_vague_anim 10032
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 1266
+        width: 150
+        height: 256
+      alignment: 9
+      pivot: {x: 0.49600002, y: 0.5097656}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f0d99ecdaeea4a0800000000000000
+      internalID: -6580063771008626882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Occurrence Course_avec_vague_anim 10019: 4064290975505570463
+      Occurrence Course_avec_vague_anim 10016: 5184256581059544189
+      Occurrence Course_avec_vague_anim 10008: 4021093762954141564
+      Occurrence Course_avec_vague_anim 10005: -9154719227072285177
+      Occurrence Course_avec_vague_anim 10028: 2733655113594563110
+      Occurrence Course_avec_vague_anim 10025: -4725949389824899267
+      Occurrence Course_avec_vague_anim 10029: 5490218438572736563
+      Occurrence Course_avec_vague_anim 10032: -6580063771008626882
+      Occurrence Course_avec_vague_anim 10010: -4794637276301297720
+      Occurrence Course_avec_vague_anim 10000: 2481815987930218120
+      Occurrence Course_avec_vague_anim 10002: 1152093723156716723
+      Occurrence Course_avec_vague_anim 10023: -6113047403522512116
+      Occurrence Course_avec_vague_anim 10027: -1638993850302894367
+      Occurrence Course_avec_vague_anim 10003: -6468482031233176470
+      Occurrence Course_avec_vague_anim 10012: 5387744120133833075
+      Occurrence Course_avec_vague_anim 10018: -6761115604680276145
+      Occurrence Course_avec_vague_anim 10026: -3473767114029240459
+      Occurrence Course_avec_vague_anim 10014: -2266673905215319784
+      Occurrence Course_avec_vague_anim 10006: -9006492241028403735
+      Occurrence Course_avec_vague_anim 10011: -5293015795755179150
+      Occurrence Course_avec_vague_anim 10031: 2229612222176807249
+      Occurrence Course_avec_vague_anim 10021: -7583968978313900289
+      Occurrence Course_avec_vague_anim 10001: 5988402795897784931
+      Occurrence Course_avec_vague_anim 10004: 1630862372037217456
+      Occurrence Course_avec_vague_anim 10024: 2507095254937693999
+      Occurrence Course_avec_vague_anim 10015: -2519887941273978151
+      Occurrence Course_avec_vague_anim 10017: -4710715072123625928
+      Occurrence Course_avec_vague_anim 10009: -7361017535035969432
+      Occurrence Course_avec_vague_anim 10022: 559927493025931433
+      Occurrence Course_avec_vague_anim 10007: 3392942996479889896
+      Occurrence Course_avec_vague_anim 10013: 32386214185206258
+      Occurrence Course_avec_vague_anim 10030: -2659105873557641749
+      Occurrence Course_avec_vague_anim 10020: 2184849934727970833
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

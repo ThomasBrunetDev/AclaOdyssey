@@ -1,0 +1,344 @@
+fileFormatVersion: 2
+guid: d32fad280cd89934bbb6db7d2e38a887
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Symbole 10000
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 282
+        width: 149
+        height: 239
+      alignment: 9
+      pivot: {x: 0.48456374, y: 0.52698743}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c36aaab5312ae900800000000000000
+      internalID: 714420005540357063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Symbole 10001
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 275
+        width: 148
+        height: 246
+      alignment: 9
+      pivot: {x: 0.51486486, y: 0.5079268}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a5481d79eb5b3ca0800000000000000
+      internalID: -6036129817175767642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Symbole 10002
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 269
+        width: 148
+        height: 252
+      alignment: 9
+      pivot: {x: 0.5418919, y: 0.49186507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd7ddf951624c2900800000000000000
+      internalID: 660976231205689307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Symbole 10003
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 264
+        width: 148
+        height: 257
+      alignment: 9
+      pivot: {x: 0.5689189, y: 0.47451362}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 461d35c83fb5d8cb0800000000000000
+      internalID: -4860127321273413276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Symbole 10004
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 262
+        width: 148
+        height: 259
+      alignment: 9
+      pivot: {x: 0.59594595, y: 0.4515444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6329ec7be9f171f0800000000000000
+      internalID: -1048782448392330385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Symbole 10005
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 262
+        width: 149
+        height: 259
+      alignment: 9
+      pivot: {x: 0.57181203, y: 0.41293436}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdcf4cfc705495f00800000000000000
+      internalID: 1105991083349048539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Symbole 10006
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 263
+        width: 149
+        height: 258
+      alignment: 9
+      pivot: {x: 0.5516778, y: 0.3757752}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d7df0a7587806ab0800000000000000
+      internalID: -5016860977542473767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Symbole 10007
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 264
+        width: 149
+        height: 257
+      alignment: 9
+      pivot: {x: 0.5315436, y: 0.3344358}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 984577f9416021210800000000000000
+      internalID: 1302109927908005001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Symbole 10008
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 148
+        height: 254
+      alignment: 9
+      pivot: {x: 0.5081081, y: 0.29114172}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a336b7715e25ce550800000000000000
+      internalID: 6191414731622540090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Symbole 10009
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 6
+        width: 149
+        height: 252
+      alignment: 9
+      pivot: {x: 0.48456374, y: 0.24980158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e5a296d9f7c91f30800000000000000
+      internalID: 4546885174667945444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Symbole 10002: 660976231205689307
+      Symbole 10006: -5016860977542473767
+      Symbole 10001: -6036129817175767642
+      Symbole 10003: -4860127321273413276
+      Symbole 10009: 4546885174667945444
+      Symbole 10005: 1105991083349048539
+      Symbole 10004: -1048782448392330385
+      Symbole 10000: 714420005540357063
+      Symbole 10008: 6191414731622540090
+      Symbole 10007: 1302109927908005001
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

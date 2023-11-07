@@ -1,0 +1,652 @@
+fileFormatVersion: 2
+guid: 14ec3caa0db070e4183d20ce170da278
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Occurrence perso_meurt_air 10000
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 445
+        width: 148
+        height: 256
+      alignment: 9
+      pivot: {x: 0.46689194, y: 0.5148438}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43457fb28727f9290800000000000000
+      internalID: -7881454962415807436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence perso_meurt_air 10001
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 447
+        width: 148
+        height: 254
+      alignment: 9
+      pivot: {x: 0.49391896, y: 0.5188977}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ebe6c7f4b133470800000000000000
+      internalID: 8373066160415882902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence perso_meurt_air 10002
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 449
+        width: 147
+        height: 252
+      alignment: 9
+      pivot: {x: 0.51768714, y: 0.5230159}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e160cdc28c1cd00800000000000000
+      internalID: 991293487993724433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence perso_meurt_air 10003
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 451
+        width: 148
+        height: 250
+      alignment: 9
+      pivot: {x: 0.5344595, y: 0.5272001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c005cf0c4a44be90800000000000000
+      internalID: -7010897029366480704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence perso_meurt_air 10004
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 454
+        width: 148
+        height: 247
+      alignment: 9
+      pivot: {x: 0.55472976, y: 0.5336033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3516d6bd1bc87bff0800000000000000
+      internalID: -20392977781399213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence perso_meurt_air 10005
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 451
+        width: 148
+        height: 250
+      alignment: 9
+      pivot: {x: 0.56148654, y: 0.5192001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5eaa6d1f4e7b600800000000000000
+      internalID: 484107212305393111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence perso_meurt_air 10006
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 448
+        width: 147
+        height: 253
+      alignment: 9
+      pivot: {x: 0.57210886, y: 0.5130435}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb19a2e4ca17a010800000000000000
+      internalID: 1199957258636172254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence perso_meurt_air 10007
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 445
+        width: 147
+        height: 256
+      alignment: 9
+      pivot: {x: 0.58571434, y: 0.5031251}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e09de9339705160800000000000000
+      internalID: 7012237882431180356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence perso_meurt_air 10008
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 443
+        width: 148
+        height: 258
+      alignment: 9
+      pivot: {x: 0.58851355, y: 0.4953489}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520cb1fec9e6421b0800000000000000
+      internalID: -5682295209529196507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence perso_meurt_air 10009
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 441
+        width: 148
+        height: 260
+      alignment: 9
+      pivot: {x: 0.59527034, y: 0.4876924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba40479d14c38b60800000000000000
+      internalID: 7747251415378053812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence perso_meurt_air 10010
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 442
+        width: 149
+        height: 259
+      alignment: 9
+      pivot: {x: 0.63825506, y: 0.50501937}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c0ff16f93cf7f650800000000000000
+      internalID: 6266754732381958343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence perso_meurt_air 10011
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 443
+        width: 148
+        height: 258
+      alignment: 9
+      pivot: {x: 0.68986493, y: 0.52248067}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3edab493f19ea180800000000000000
+      internalID: -9102177321510838722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence perso_meurt_air 10012
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 444
+        width: 148
+        height: 257
+      alignment: 9
+      pivot: {x: 0.73716223, y: 0.54007787}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a732314e6e056f010800000000000000
+      internalID: 1222253301476828026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence perso_meurt_air 10013
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 182
+        width: 148
+        height: 255
+      alignment: 9
+      pivot: {x: 0.7844595, y: 0.5560785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5cafa4c730932f0800000000000000
+      internalID: -992758410489707057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence perso_meurt_air 10014
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 184
+        width: 148
+        height: 253
+      alignment: 9
+      pivot: {x: 0.8317568, y: 0.5723321}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f21c2b191e3f9c0800000000000000
+      internalID: -3894521236859834486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence perso_meurt_air 10015
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 186
+        width: 148
+        height: 251
+      alignment: 9
+      pivot: {x: 0.87905407, y: 0.5888447}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28572c019448045f0800000000000000
+      internalID: -774473686559066750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence perso_meurt_air 10016
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 189
+        width: 148
+        height: 248
+      alignment: 9
+      pivot: {x: 0.92635137, y: 0.60403234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090f3407fa9e11850800000000000000
+      internalID: 6346110289653788816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence perso_meurt_air 10017
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 217
+        width: 184
+        height: 220
+      alignment: 9
+      pivot: {x: 1.0657609, y: 0.7263637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 390e46fdcf9d98ee0800000000000000
+      internalID: -1258234940770426733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence perso_meurt_air 10018
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 264
+        width: 196
+        height: 173
+      alignment: 9
+      pivot: {x: 1.1637756, y: 0.8947978}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f812bc066e7b76680800000000000000
+      internalID: -8761832349931724401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence perso_meurt_air 10019
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 296
+        width: 205
+        height: 141
+      alignment: 9
+      pivot: {x: 1.117561, y: 1.0056739}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 695e15d9c65803340800000000000000
+      internalID: 4841516300965635478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence perso_meurt_air 10020
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 271
+        width: 251
+        height: 166
+      alignment: 9
+      pivot: {x: 1.0482072, y: 0.9325302}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f81967b4ae056db0800000000000000
+      internalID: -4799413727278851856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence perso_meurt_air 10021
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 279
+        width: 233
+        height: 158
+      alignment: 9
+      pivot: {x: 1.0562232, y: 1.0050634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b3edf6f7e7279030800000000000000
+      internalID: 3501311112538612658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence perso_meurt_air 10022
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 279
+        width: 233
+        height: 158
+      alignment: 9
+      pivot: {x: 1.0776824, y: 1.1759495}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa85ca2b5c636790800000000000000
+      internalID: -7538062212472665429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence perso_meurt_air 10023
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 19
+        width: 234
+        height: 159
+      alignment: 9
+      pivot: {x: 1.132906, y: 1.2943398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b62b4599fecd31a0800000000000000
+      internalID: -6828073888676895048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Occurrence perso_meurt_air 10021: 3501311112538612658
+      Occurrence perso_meurt_air 10008: -5682295209529196507
+      Occurrence perso_meurt_air 10016: 6346110289653788816
+      Occurrence perso_meurt_air 10000: -7881454962415807436
+      Occurrence perso_meurt_air 10002: 991293487993724433
+      Occurrence perso_meurt_air 10003: -7010897029366480704
+      Occurrence perso_meurt_air 10011: -9102177321510838722
+      Occurrence perso_meurt_air 10017: -1258234940770426733
+      Occurrence perso_meurt_air 10018: -8761832349931724401
+      Occurrence perso_meurt_air 10009: 7747251415378053812
+      Occurrence perso_meurt_air 10013: -992758410489707057
+      Occurrence perso_meurt_air 10019: 4841516300965635478
+      Occurrence perso_meurt_air 10006: 1199957258636172254
+      Occurrence perso_meurt_air 10023: -6828073888676895048
+      Occurrence perso_meurt_air 10005: 484107212305393111
+      Occurrence perso_meurt_air 10022: -7538062212472665429
+      Occurrence perso_meurt_air 10001: 8373066160415882902
+      Occurrence perso_meurt_air 10004: -20392977781399213
+      Occurrence perso_meurt_air 10010: 6266754732381958343
+      Occurrence perso_meurt_air 10020: -4799413727278851856
+      Occurrence perso_meurt_air 10007: 7012237882431180356
+      Occurrence perso_meurt_air 10015: -774473686559066750
+      Occurrence perso_meurt_air 10012: 1222253301476828026
+      Occurrence perso_meurt_air 10014: -3894521236859834486
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
